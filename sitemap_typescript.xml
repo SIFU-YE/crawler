@@ -1,0 +1,137 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<urlset
+      xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
+      xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+      xsi:schemaLocation="http://www.sitemaps.org/schemas/sitemap/0.9
+            http://www.sitemaps.org/schemas/sitemap/0.9/sitemap.xsd">
+<!-- created with Free Online Sitemap Generator www.xml-sitemaps.com -->
+
+
+<url>
+  <loc>https://www.runoob.com/typescript/ts-loop.html</loc>
+  <lastmod>2026-01-26T09:17:09+00:00</lastmod>
+  <priority>1.00</priority>
+</url>
+<url>
+  <loc>https://www.runoob.com/typescript/ts-tutorial.html</loc>
+  <lastmod>2026-01-26T09:17:09+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://www.runoob.com/typescript/ts-install.html</loc>
+  <lastmod>2026-01-26T09:17:09+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://www.runoob.com/typescript/ts-features.html</loc>
+  <lastmod>2026-01-26T09:17:09+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://www.runoob.com/typescript/ts-basic-syntax.html</loc>
+  <lastmod>2026-01-26T09:17:09+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://www.runoob.com/typescript/typescript-basic-structure.html</loc>
+  <lastmod>2026-01-26T09:17:09+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://www.runoob.com/typescript/ts-type.html</loc>
+  <lastmod>2026-01-26T09:17:09+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://www.runoob.com/typescript/ts-variables.html</loc>
+  <lastmod>2026-01-26T09:17:09+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://www.runoob.com/typescript/ts-operators.html</loc>
+  <lastmod>2026-01-26T09:17:09+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://www.runoob.com/typescript/ts-if-statement.html</loc>
+  <lastmod>2026-01-26T09:17:09+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://www.runoob.com/typescript/ts-function.html</loc>
+  <lastmod>2026-01-26T09:17:09+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://www.runoob.com/typescript/ts-number.html</loc>
+  <lastmod>2026-01-26T09:17:09+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://www.runoob.com/typescript/ts-string.html</loc>
+  <lastmod>2026-01-26T09:17:09+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://www.runoob.com/typescript/ts-array.html</loc>
+  <lastmod>2026-01-26T09:17:09+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://www.runoob.com/typescript/ts-map.html</loc>
+  <lastmod>2026-01-26T09:17:09+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://www.runoob.com/typescript/ts-tuple.html</loc>
+  <lastmod>2026-01-26T09:17:09+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://www.runoob.com/typescript/ts-union.html</loc>
+  <lastmod>2026-01-26T09:17:09+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://www.runoob.com/typescript/ts-interface.html</loc>
+  <lastmod>2026-01-26T09:17:09+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://www.runoob.com/typescript/ts-class.html</loc>
+  <lastmod>2026-01-26T09:17:09+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://www.runoob.com/typescript/ts-object.html</loc>
+  <lastmod>2026-01-26T09:17:09+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://www.runoob.com/typescript/ts-generics.html</loc>
+  <lastmod>2026-01-26T09:17:09+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://www.runoob.com/typescript/ts-namespace.html</loc>
+  <lastmod>2026-01-26T09:17:09+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://www.runoob.com/typescript/ts-module.html</loc>
+  <lastmod>2026-01-26T09:17:09+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://www.runoob.com/typescript/ts-ambient.html</loc>
+  <lastmod>2026-01-26T09:17:09+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://www.runoob.com/typescript/ts-quiz.html</loc>
+  <lastmod>2026-01-26T09:17:09+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+
+
+</urlset>

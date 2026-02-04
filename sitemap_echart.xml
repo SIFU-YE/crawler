@@ -1,0 +1,257 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<urlset
+      xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
+      xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+      xsi:schemaLocation="http://www.sitemaps.org/schemas/sitemap/0.9
+            http://www.sitemaps.org/schemas/sitemap/0.9/sitemap.xsd">
+<!-- created with Free Online Sitemap Generator www.xml-sitemaps.com -->
+
+
+<url>
+  <loc>https://echarts.apache.org/handbook/zh/</loc>
+  <lastmod>2026-01-22T20:27:01+00:00</lastmod>
+  <priority>1.00</priority>
+</url>
+<url>
+  <loc>https://echarts.apache.org/handbook/zh/get-started/</loc>
+  <lastmod>2026-01-22T20:27:01+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://echarts.apache.org/handbook/zh/basics/release-note/v6-upgrade-guide/</loc>
+  <lastmod>2026-01-22T20:27:01+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://echarts.apache.org/handbook/zh/basics/download/</loc>
+  <lastmod>2026-01-22T20:27:01+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://echarts.apache.org/handbook/zh/basics/import/</loc>
+  <lastmod>2026-01-22T20:27:01+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://echarts.apache.org/handbook/zh/basics/help/</loc>
+  <lastmod>2026-01-22T20:27:01+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://echarts.apache.org/handbook/zh/basics/release-note/v6-feature/</loc>
+  <lastmod>2026-01-22T20:27:01+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://echarts.apache.org/handbook/zh/basics/release-note/v5-feature/</loc>
+  <lastmod>2026-01-22T20:27:01+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://echarts.apache.org/handbook/zh/basics/release-note/v5-upgrade-guide/</loc>
+  <lastmod>2026-01-22T20:27:01+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://echarts.apache.org/handbook/zh/basics/release-note/5-2-0/</loc>
+  <lastmod>2026-01-22T20:27:01+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://echarts.apache.org/handbook/zh/basics/release-note/5-3-0/</loc>
+  <lastmod>2026-01-22T20:27:01+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://echarts.apache.org/handbook/zh/basics/release-note/5-4-0/</loc>
+  <lastmod>2026-01-22T20:27:01+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://echarts.apache.org/handbook/zh/basics/release-note/5-5-0/</loc>
+  <lastmod>2026-01-22T20:27:01+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://echarts.apache.org/handbook/zh/basics/release-note/5-6-0/</loc>
+  <lastmod>2026-01-22T20:27:01+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://echarts.apache.org/handbook/zh/concepts/chart-size/</loc>
+  <lastmod>2026-01-22T20:27:01+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://echarts.apache.org/handbook/zh/concepts/style/</loc>
+  <lastmod>2026-01-22T20:27:01+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://echarts.apache.org/handbook/zh/concepts/dataset/</loc>
+  <lastmod>2026-01-22T20:27:01+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://echarts.apache.org/handbook/zh/concepts/data-transform/</loc>
+  <lastmod>2026-01-22T20:27:01+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://echarts.apache.org/handbook/zh/concepts/axis/</loc>
+  <lastmod>2026-01-22T20:27:01+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://echarts.apache.org/handbook/zh/concepts/visual-map/</loc>
+  <lastmod>2026-01-22T20:27:01+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://echarts.apache.org/handbook/zh/concepts/legend/</loc>
+  <lastmod>2026-01-22T20:27:01+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://echarts.apache.org/handbook/zh/concepts/event/</loc>
+  <lastmod>2026-01-22T20:27:01+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://echarts.apache.org/handbook/zh/how-to/chart-types/bar/basic-bar/</loc>
+  <lastmod>2026-01-22T20:27:01+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://echarts.apache.org/handbook/zh/how-to/chart-types/bar/stacked-bar/</loc>
+  <lastmod>2026-01-22T20:27:01+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://echarts.apache.org/handbook/zh/how-to/chart-types/bar/bar-race/</loc>
+  <lastmod>2026-01-22T20:27:01+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://echarts.apache.org/handbook/zh/how-to/chart-types/bar/waterfall/</loc>
+  <lastmod>2026-01-22T20:27:01+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://echarts.apache.org/handbook/zh/how-to/chart-types/line/basic-line/</loc>
+  <lastmod>2026-01-22T20:27:01+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://echarts.apache.org/handbook/zh/how-to/chart-types/line/stacked-line/</loc>
+  <lastmod>2026-01-22T20:27:01+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://echarts.apache.org/handbook/zh/how-to/chart-types/line/area-line/</loc>
+  <lastmod>2026-01-22T20:27:01+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://echarts.apache.org/handbook/zh/how-to/chart-types/line/smooth-line/</loc>
+  <lastmod>2026-01-22T20:27:01+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://echarts.apache.org/handbook/zh/how-to/chart-types/line/step-line/</loc>
+  <lastmod>2026-01-22T20:27:01+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://echarts.apache.org/handbook/zh/how-to/chart-types/pie/basic-pie/</loc>
+  <lastmod>2026-01-22T20:27:01+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://echarts.apache.org/handbook/zh/how-to/chart-types/pie/doughnut/</loc>
+  <lastmod>2026-01-22T20:27:01+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://echarts.apache.org/handbook/zh/how-to/chart-types/pie/rose/</loc>
+  <lastmod>2026-01-22T20:27:01+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://echarts.apache.org/handbook/zh/how-to/chart-types/scatter/basic-scatter/</loc>
+  <lastmod>2026-01-22T20:27:01+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://echarts.apache.org/handbook/zh/how-to/custom-series/</loc>
+  <lastmod>2026-01-22T20:27:01+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://echarts.apache.org/handbook/zh/how-to/component-types/geo/svg-base-map/</loc>
+  <lastmod>2026-01-22T20:27:01+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://echarts.apache.org/handbook/zh/how-to/cross-platform/server/</loc>
+  <lastmod>2026-01-22T20:27:01+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://echarts.apache.org/handbook/zh/how-to/cross-platform/wechat-app/</loc>
+  <lastmod>2026-01-22T20:27:01+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://echarts.apache.org/handbook/zh/how-to/cross-platform/baidu-app/</loc>
+  <lastmod>2026-01-22T20:27:01+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://echarts.apache.org/handbook/zh/how-to/data/dynamic-data/</loc>
+  <lastmod>2026-01-22T20:27:01+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://echarts.apache.org/handbook/zh/how-to/label/rich-text/</loc>
+  <lastmod>2026-01-22T20:27:01+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://echarts.apache.org/handbook/zh/how-to/animation/transition/</loc>
+  <lastmod>2026-01-22T20:27:01+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://echarts.apache.org/handbook/zh/how-to/interaction/drag/</loc>
+  <lastmod>2026-01-22T20:27:01+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://echarts.apache.org/handbook/zh/how-to/interaction/coarse-pointer/</loc>
+  <lastmod>2026-01-22T20:27:01+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://echarts.apache.org/handbook/zh/best-practices/canvas-vs-svg/</loc>
+  <lastmod>2026-01-22T20:27:01+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://echarts.apache.org/handbook/zh/best-practices/aria/</loc>
+  <lastmod>2026-01-22T20:27:01+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://echarts.apache.org/handbook/zh/best-practices/security/</loc>
+  <lastmod>2026-01-22T20:27:01+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://echarts.apache.org/handbook/zh/meta/edit-guide/</loc>
+  <lastmod>2026-01-22T20:27:01+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+
+
+</urlset>

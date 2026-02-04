@@ -1,0 +1,1832 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<urlset
+      xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
+      xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+      xsi:schemaLocation="http://www.sitemaps.org/schemas/sitemap/0.9
+            http://www.sitemaps.org/schemas/sitemap/0.9/sitemap.xsd">
+<!-- created with Free Online Sitemap Generator www.xml-sitemaps.com -->
+
+
+<url>
+  <loc>https://certcs.cloud.smartbi.com.cn/smartbi/vision/macro/wiki/dashboard/globals.html</loc>
+  <lastmod>2026-01-26T08:49:43+00:00</lastmod>
+  <priority>1.00</priority>
+</url>
+<url>
+  <loc>https://certcs.cloud.smartbi.com.cn/smartbi/vision/macro/wiki/dashboard/index.html</loc>
+  <lastmod>2026-01-26T08:49:43+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://certcs.cloud.smartbi.com.cn/smartbi/vision/macro/wiki/dashboard/modules/smartbixmacro.html</loc>
+  <lastmod>2026-01-26T08:49:43+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://certcs.cloud.smartbi.com.cn/smartbi/vision/macro/wiki/dashboard/modules/cells.html</loc>
+  <lastmod>2026-01-26T08:49:43+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://certcs.cloud.smartbi.com.cn/smartbi/vision/macro/wiki/dashboard/enums/aligntype.html</loc>
+  <lastmod>2026-01-26T08:49:43+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://certcs.cloud.smartbi.com.cn/smartbi/vision/macro/wiki/dashboard/enums/baselinetype.html</loc>
+  <lastmod>2026-01-26T08:49:43+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://certcs.cloud.smartbi.com.cn/smartbi/vision/macro/wiki/dashboard/enums/colortype.html</loc>
+  <lastmod>2026-01-26T08:49:43+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://certcs.cloud.smartbi.com.cn/smartbi/vision/macro/wiki/dashboard/enums/cursor.html</loc>
+  <lastmod>2026-01-26T08:49:43+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://certcs.cloud.smartbi.com.cn/smartbi/vision/macro/wiki/dashboard/enums/exporttype.html</loc>
+  <lastmod>2026-01-26T08:49:43+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://certcs.cloud.smartbi.com.cn/smartbi/vision/macro/wiki/dashboard/enums/fontweighttype.html</loc>
+  <lastmod>2026-01-26T08:49:43+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://certcs.cloud.smartbi.com.cn/smartbi/vision/macro/wiki/dashboard/enums/iconname.html</loc>
+  <lastmod>2026-01-26T08:49:43+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://certcs.cloud.smartbi.com.cn/smartbi/vision/macro/wiki/dashboard/enums/opentype.html</loc>
+  <lastmod>2026-01-26T08:49:43+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://certcs.cloud.smartbi.com.cn/smartbi/vision/macro/wiki/dashboard/enums/portlettoolbaridenum.html</loc>
+  <lastmod>2026-01-26T08:49:43+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://certcs.cloud.smartbi.com.cn/smartbi/vision/macro/wiki/dashboard/enums/tablecellevent.html</loc>
+  <lastmod>2026-01-26T08:49:43+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://certcs.cloud.smartbi.com.cn/smartbi/vision/macro/wiki/dashboard/enums/tabslinktype.html</loc>
+  <lastmod>2026-01-26T08:49:43+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://certcs.cloud.smartbi.com.cn/smartbi/vision/macro/wiki/dashboard/enums/textdecorationtype.html</loc>
+  <lastmod>2026-01-26T08:49:43+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://certcs.cloud.smartbi.com.cn/smartbi/vision/macro/wiki/dashboard/interfaces/ibasetabletreecell.html</loc>
+  <lastmod>2026-01-26T08:49:43+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://certcs.cloud.smartbi.com.cn/smartbi/vision/macro/wiki/dashboard/interfaces/icarouseloptions.html</loc>
+  <lastmod>2026-01-26T08:49:43+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://certcs.cloud.smartbi.com.cn/smartbi/vision/macro/wiki/dashboard/interfaces/icellposition.html</loc>
+  <lastmod>2026-01-26T08:49:43+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://certcs.cloud.smartbi.com.cn/smartbi/vision/macro/wiki/dashboard/interfaces/icustomiconoptions.html</loc>
+  <lastmod>2026-01-26T08:49:43+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://certcs.cloud.smartbi.com.cn/smartbi/vision/macro/wiki/dashboard/interfaces/iechartsportlet.html</loc>
+  <lastmod>2026-01-26T08:49:43+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://certcs.cloud.smartbi.com.cn/smartbi/vision/macro/wiki/dashboard/interfaces/ifiltercolumn.html</loc>
+  <lastmod>2026-01-26T08:49:43+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://certcs.cloud.smartbi.com.cn/smartbi/vision/macro/wiki/dashboard/interfaces/ifilterportlet.html</loc>
+  <lastmod>2026-01-26T08:49:43+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://certcs.cloud.smartbi.com.cn/smartbi/vision/macro/wiki/dashboard/interfaces/ifilterrow.html</loc>
+  <lastmod>2026-01-26T08:49:43+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://certcs.cloud.smartbi.com.cn/smartbi/vision/macro/wiki/dashboard/interfaces/igismapportlet.html</loc>
+  <lastmod>2026-01-26T08:49:43+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://certcs.cloud.smartbi.com.cn/smartbi/vision/macro/wiki/dashboard/interfaces/iindicatorportlet.html</loc>
+  <lastmod>2026-01-26T08:49:43+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://certcs.cloud.smartbi.com.cn/smartbi/vision/macro/wiki/dashboard/interfaces/ilogger.html</loc>
+  <lastmod>2026-01-26T08:49:43+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://certcs.cloud.smartbi.com.cn/smartbi/vision/macro/wiki/dashboard/interfaces/ipage.html</loc>
+  <lastmod>2026-01-26T08:49:43+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://certcs.cloud.smartbi.com.cn/smartbi/vision/macro/wiki/dashboard/interfaces/ipageserver.html</loc>
+  <lastmod>2026-01-26T08:49:43+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://certcs.cloud.smartbi.com.cn/smartbi/vision/macro/wiki/dashboard/interfaces/ipagetoolbar.html</loc>
+  <lastmod>2026-01-26T08:49:43+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://certcs.cloud.smartbi.com.cn/smartbi/vision/macro/wiki/dashboard/interfaces/iportlet.html</loc>
+  <lastmod>2026-01-26T08:49:43+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://certcs.cloud.smartbi.com.cn/smartbi/vision/macro/wiki/dashboard/interfaces/iportletserver.html</loc>
+  <lastmod>2026-01-26T08:49:43+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://certcs.cloud.smartbi.com.cn/smartbi/vision/macro/wiki/dashboard/interfaces/iportlettoolbar.html</loc>
+  <lastmod>2026-01-26T08:49:43+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://certcs.cloud.smartbi.com.cn/smartbi/vision/macro/wiki/dashboard/interfaces/iportlettoolbarbutton.html</loc>
+  <lastmod>2026-01-26T08:49:43+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://certcs.cloud.smartbi.com.cn/smartbi/vision/macro/wiki/dashboard/interfaces/irendercellhandler.html</loc>
+  <lastmod>2026-01-26T08:49:43+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://certcs.cloud.smartbi.com.cn/smartbi/vision/macro/wiki/dashboard/interfaces/irendercolheaderhandler.html</loc>
+  <lastmod>2026-01-26T08:49:43+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://certcs.cloud.smartbi.com.cn/smartbi/vision/macro/wiki/dashboard/interfaces/irendercornerheaderhandler.html</loc>
+  <lastmod>2026-01-26T08:49:43+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://certcs.cloud.smartbi.com.cn/smartbi/vision/macro/wiki/dashboard/interfaces/irenderrowheaderhandler.html</loc>
+  <lastmod>2026-01-26T08:49:43+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://certcs.cloud.smartbi.com.cn/smartbi/vision/macro/wiki/dashboard/interfaces/irendertabletreecellhandler.html</loc>
+  <lastmod>2026-01-26T08:49:43+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://certcs.cloud.smartbi.com.cn/smartbi/vision/macro/wiki/dashboard/interfaces/irendertabletreecolheaderhandler.html</loc>
+  <lastmod>2026-01-26T08:49:43+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://certcs.cloud.smartbi.com.cn/smartbi/vision/macro/wiki/dashboard/interfaces/irendertabletreecornerheaderhandler.html</loc>
+  <lastmod>2026-01-26T08:49:43+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://certcs.cloud.smartbi.com.cn/smartbi/vision/macro/wiki/dashboard/interfaces/irendertabletreerowheaderhandler.html</loc>
+  <lastmod>2026-01-26T08:49:43+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://certcs.cloud.smartbi.com.cn/smartbi/vision/macro/wiki/dashboard/interfaces/isheetcell.html</loc>
+  <lastmod>2026-01-26T08:49:43+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://certcs.cloud.smartbi.com.cn/smartbi/vision/macro/wiki/dashboard/interfaces/isheetcellserver.html</loc>
+  <lastmod>2026-01-26T08:49:43+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://certcs.cloud.smartbi.com.cn/smartbi/vision/macro/wiki/dashboard/interfaces/isheetcolumn.html</loc>
+  <lastmod>2026-01-26T08:49:43+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://certcs.cloud.smartbi.com.cn/smartbi/vision/macro/wiki/dashboard/interfaces/isheetcustomelement.html</loc>
+  <lastmod>2026-01-26T08:49:43+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://certcs.cloud.smartbi.com.cn/smartbi/vision/macro/wiki/dashboard/interfaces/isheeteditableelement.html</loc>
+  <lastmod>2026-01-26T08:49:43+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://certcs.cloud.smartbi.com.cn/smartbi/vision/macro/wiki/dashboard/interfaces/isheetelement.html</loc>
+  <lastmod>2026-01-26T08:49:43+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://certcs.cloud.smartbi.com.cn/smartbi/vision/macro/wiki/dashboard/interfaces/isheetrow.html</loc>
+  <lastmod>2026-01-26T08:49:43+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://certcs.cloud.smartbi.com.cn/smartbi/vision/macro/wiki/dashboard/interfaces/isheetserver.html</loc>
+  <lastmod>2026-01-26T08:49:43+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://certcs.cloud.smartbi.com.cn/smartbi/vision/macro/wiki/dashboard/interfaces/ismartbixutils.html</loc>
+  <lastmod>2026-01-26T08:49:43+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://certcs.cloud.smartbi.com.cn/smartbi/vision/macro/wiki/dashboard/interfaces/istandbyvalue.html</loc>
+  <lastmod>2026-01-26T08:49:43+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://certcs.cloud.smartbi.com.cn/smartbi/vision/macro/wiki/dashboard/interfaces/istaticlabelportlet.html</loc>
+  <lastmod>2026-01-26T08:49:43+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://certcs.cloud.smartbi.com.cn/smartbi/vision/macro/wiki/dashboard/interfaces/istatictabslinkportlet.html</loc>
+  <lastmod>2026-01-26T08:49:43+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://certcs.cloud.smartbi.com.cn/smartbi/vision/macro/wiki/dashboard/interfaces/istatictabsportlet.html</loc>
+  <lastmod>2026-01-26T08:49:43+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://certcs.cloud.smartbi.com.cn/smartbi/vision/macro/wiki/dashboard/interfaces/istatictextportlet.html</loc>
+  <lastmod>2026-01-26T08:49:43+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://certcs.cloud.smartbi.com.cn/smartbi/vision/macro/wiki/dashboard/interfaces/itablecell.html</loc>
+  <lastmod>2026-01-26T08:49:43+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://certcs.cloud.smartbi.com.cn/smartbi/vision/macro/wiki/dashboard/interfaces/itablecellbackgroundstyle.html</loc>
+  <lastmod>2026-01-26T08:49:43+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://certcs.cloud.smartbi.com.cn/smartbi/vision/macro/wiki/dashboard/interfaces/itablecellborder.html</loc>
+  <lastmod>2026-01-26T08:49:43+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://certcs.cloud.smartbi.com.cn/smartbi/vision/macro/wiki/dashboard/interfaces/itablecelleventlistener.html</loc>
+  <lastmod>2026-01-26T08:49:43+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://certcs.cloud.smartbi.com.cn/smartbi/vision/macro/wiki/dashboard/interfaces/itablecelltextstyle.html</loc>
+  <lastmod>2026-01-26T08:49:43+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://certcs.cloud.smartbi.com.cn/smartbi/vision/macro/wiki/dashboard/interfaces/itablecolheader.html</loc>
+  <lastmod>2026-01-26T08:49:43+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://certcs.cloud.smartbi.com.cn/smartbi/vision/macro/wiki/dashboard/interfaces/itablecolumn.html</loc>
+  <lastmod>2026-01-26T08:49:43+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://certcs.cloud.smartbi.com.cn/smartbi/vision/macro/wiki/dashboard/interfaces/itablecornerheader.html</loc>
+  <lastmod>2026-01-26T08:49:43+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://certcs.cloud.smartbi.com.cn/smartbi/vision/macro/wiki/dashboard/interfaces/itablecrossportlet.html</loc>
+  <lastmod>2026-01-26T08:49:43+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://certcs.cloud.smartbi.com.cn/smartbi/vision/macro/wiki/dashboard/interfaces/itabledatarow.html</loc>
+  <lastmod>2026-01-26T08:49:43+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://certcs.cloud.smartbi.com.cn/smartbi/vision/macro/wiki/dashboard/interfaces/itableheader.html</loc>
+  <lastmod>2026-01-26T08:49:43+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://certcs.cloud.smartbi.com.cn/smartbi/vision/macro/wiki/dashboard/interfaces/itablelistportlet.html</loc>
+  <lastmod>2026-01-26T08:49:43+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://certcs.cloud.smartbi.com.cn/smartbi/vision/macro/wiki/dashboard/interfaces/itableportlet.html</loc>
+  <lastmod>2026-01-26T08:49:43+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://certcs.cloud.smartbi.com.cn/smartbi/vision/macro/wiki/dashboard/interfaces/itablerow.html</loc>
+  <lastmod>2026-01-26T08:49:43+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://certcs.cloud.smartbi.com.cn/smartbi/vision/macro/wiki/dashboard/interfaces/itablerowheader.html</loc>
+  <lastmod>2026-01-26T08:49:43+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://certcs.cloud.smartbi.com.cn/smartbi/vision/macro/wiki/dashboard/interfaces/itablesheetportlet.html</loc>
+  <lastmod>2026-01-26T08:49:43+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://certcs.cloud.smartbi.com.cn/smartbi/vision/macro/wiki/dashboard/interfaces/itablesheetportletserver.html</loc>
+  <lastmod>2026-01-26T08:49:43+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://certcs.cloud.smartbi.com.cn/smartbi/vision/macro/wiki/dashboard/interfaces/itabletreecolheader.html</loc>
+  <lastmod>2026-01-26T08:49:43+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://certcs.cloud.smartbi.com.cn/smartbi/vision/macro/wiki/dashboard/interfaces/itabletreecornerheader.html</loc>
+  <lastmod>2026-01-26T08:49:43+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://certcs.cloud.smartbi.com.cn/smartbi/vision/macro/wiki/dashboard/interfaces/itabletreedatarow.html</loc>
+  <lastmod>2026-01-26T08:49:43+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://certcs.cloud.smartbi.com.cn/smartbi/vision/macro/wiki/dashboard/interfaces/itabletreeportlet.html</loc>
+  <lastmod>2026-01-26T08:49:43+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://certcs.cloud.smartbi.com.cn/smartbi/vision/macro/wiki/dashboard/interfaces/itabletreerowheader.html</loc>
+  <lastmod>2026-01-26T08:49:43+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://certcs.cloud.smartbi.com.cn/smartbi/vision/macro/wiki/dashboard/interfaces/itooltipcolumn.html</loc>
+  <lastmod>2026-01-26T08:49:43+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://certcs.cloud.smartbi.com.cn/smartbi/vision/macro/wiki/dashboard/interfaces/itooltiprow.html</loc>
+  <lastmod>2026-01-26T08:49:43+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://certcs.cloud.smartbi.com.cn/smartbi/vision/macro/wiki/dashboard/interfaces/indicatorcolumn.html</loc>
+  <lastmod>2026-01-26T08:49:43+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://certcs.cloud.smartbi.com.cn/smartbi/vision/macro/wiki/dashboard/interfaces/indicatorrow.html</loc>
+  <lastmod>2026-01-26T08:49:43+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://certcs.cloud.smartbi.com.cn/smartbi/vision/macro/wiki/dashboard/interfaces/cells.iaboveaverage.html</loc>
+  <lastmod>2026-01-26T08:49:43+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://certcs.cloud.smartbi.com.cn/smartbi/vision/macro/wiki/dashboard/interfaces/cells.iabstractcalculationengine.html</loc>
+  <lastmod>2026-01-26T08:49:43+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://certcs.cloud.smartbi.com.cn/smartbi/vision/macro/wiki/dashboard/interfaces/cells.iabstractcalculationmonitor.html</loc>
+  <lastmod>2026-01-26T08:49:43+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://certcs.cloud.smartbi.com.cn/smartbi/vision/macro/wiki/dashboard/interfaces/cells.iabstracttextloadoptions.html</loc>
+  <lastmod>2026-01-26T08:49:43+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://certcs.cloud.smartbi.com.cn/smartbi/vision/macro/wiki/dashboard/interfaces/cells.iactivexcontrol.html</loc>
+  <lastmod>2026-01-26T08:49:43+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://certcs.cloud.smartbi.com.cn/smartbi/vision/macro/wiki/dashboard/interfaces/cells.iactivexcontrolbase.html</loc>
+  <lastmod>2026-01-26T08:49:43+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://certcs.cloud.smartbi.com.cn/smartbi/vision/macro/wiki/dashboard/interfaces/cells.iarea.html</loc>
+  <lastmod>2026-01-26T08:49:43+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://certcs.cloud.smartbi.com.cn/smartbi/vision/macro/wiki/dashboard/interfaces/cells.iautofilter.html</loc>
+  <lastmod>2026-01-26T08:49:43+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://certcs.cloud.smartbi.com.cn/smartbi/vision/macro/wiki/dashboard/interfaces/cells.iautofitteroptions.html</loc>
+  <lastmod>2026-01-26T08:49:43+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://certcs.cloud.smartbi.com.cn/smartbi/vision/macro/wiki/dashboard/interfaces/cells.iaxis.html</loc>
+  <lastmod>2026-01-26T08:49:43+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://certcs.cloud.smartbi.com.cn/smartbi/vision/macro/wiki/dashboard/interfaces/cells.ibevel.html</loc>
+  <lastmod>2026-01-26T08:49:43+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://certcs.cloud.smartbi.com.cn/smartbi/vision/macro/wiki/dashboard/interfaces/cells.iborder.html</loc>
+  <lastmod>2026-01-26T08:49:43+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://certcs.cloud.smartbi.com.cn/smartbi/vision/macro/wiki/dashboard/interfaces/cells.ibordercollection.html</loc>
+  <lastmod>2026-01-26T08:49:43+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://certcs.cloud.smartbi.com.cn/smartbi/vision/macro/wiki/dashboard/interfaces/cells.ibuiltindocumentpropertycollection.html</loc>
+  <lastmod>2026-01-26T08:49:43+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://certcs.cloud.smartbi.com.cn/smartbi/vision/macro/wiki/dashboard/interfaces/cells.ibullet.html</loc>
+  <lastmod>2026-01-26T08:49:43+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://certcs.cloud.smartbi.com.cn/smartbi/vision/macro/wiki/dashboard/interfaces/cells.ibulletvalue.html</loc>
+  <lastmod>2026-01-26T08:49:43+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://certcs.cloud.smartbi.com.cn/smartbi/vision/macro/wiki/dashboard/interfaces/cells.icalculationdata.html</loc>
+  <lastmod>2026-01-26T08:49:43+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://certcs.cloud.smartbi.com.cn/smartbi/vision/macro/wiki/dashboard/interfaces/cells.icalculationoptions.html</loc>
+  <lastmod>2026-01-26T08:49:43+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://certcs.cloud.smartbi.com.cn/smartbi/vision/macro/wiki/dashboard/interfaces/cells.icell.html</loc>
+  <lastmod>2026-01-26T08:49:43+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://certcs.cloud.smartbi.com.cn/smartbi/vision/macro/wiki/dashboard/interfaces/cells.icellarea.html</loc>
+  <lastmod>2026-01-26T08:49:43+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://certcs.cloud.smartbi.com.cn/smartbi/vision/macro/wiki/dashboard/interfaces/cells.icellwatch.html</loc>
+  <lastmod>2026-01-26T08:49:43+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://certcs.cloud.smartbi.com.cn/smartbi/vision/macro/wiki/dashboard/interfaces/cells.icellwatchcollection.html</loc>
+  <lastmod>2026-01-26T08:49:43+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://certcs.cloud.smartbi.com.cn/smartbi/vision/macro/wiki/dashboard/interfaces/cells.icells.html</loc>
+  <lastmod>2026-01-26T08:49:43+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://certcs.cloud.smartbi.com.cn/smartbi/vision/macro/wiki/dashboard/interfaces/cells.icellscolor.html</loc>
+  <lastmod>2026-01-26T08:49:43+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://certcs.cloud.smartbi.com.cn/smartbi/vision/macro/wiki/dashboard/interfaces/cells.ichart.html</loc>
+  <lastmod>2026-01-26T08:49:43+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://certcs.cloud.smartbi.com.cn/smartbi/vision/macro/wiki/dashboard/interfaces/cells.ichartarea.html</loc>
+  <lastmod>2026-01-26T08:49:43+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://certcs.cloud.smartbi.com.cn/smartbi/vision/macro/wiki/dashboard/interfaces/cells.ichartcollection.html</loc>
+  <lastmod>2026-01-26T08:49:43+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://certcs.cloud.smartbi.com.cn/smartbi/vision/macro/wiki/dashboard/interfaces/cells.ichartdatatable.html</loc>
+  <lastmod>2026-01-26T08:49:43+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://certcs.cloud.smartbi.com.cn/smartbi/vision/macro/wiki/dashboard/interfaces/cells.ichartframe.html</loc>
+  <lastmod>2026-01-26T08:49:43+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://certcs.cloud.smartbi.com.cn/smartbi/vision/macro/wiki/dashboard/interfaces/cells.ichartpoint.html</loc>
+  <lastmod>2026-01-26T08:49:43+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://certcs.cloud.smartbi.com.cn/smartbi/vision/macro/wiki/dashboard/interfaces/cells.ichartpointcollection.html</loc>
+  <lastmod>2026-01-26T08:49:43+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://certcs.cloud.smartbi.com.cn/smartbi/vision/macro/wiki/dashboard/interfaces/cells.ichartshape.html</loc>
+  <lastmod>2026-01-26T08:49:43+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://certcs.cloud.smartbi.com.cn/smartbi/vision/macro/wiki/dashboard/interfaces/cells.icharttextframe.html</loc>
+  <lastmod>2026-01-26T08:49:43+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://certcs.cloud.smartbi.com.cn/smartbi/vision/macro/wiki/dashboard/interfaces/cells.icheckboxcollection.html</loc>
+  <lastmod>2026-01-26T08:49:43+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://certcs.cloud.smartbi.com.cn/smartbi/vision/macro/wiki/dashboard/interfaces/cells.icollectionbase.html</loc>
+  <lastmod>2026-01-26T08:49:43+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://certcs.cloud.smartbi.com.cn/smartbi/vision/macro/wiki/dashboard/interfaces/cells.icolor.html</loc>
+  <lastmod>2026-01-26T08:49:43+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://certcs.cloud.smartbi.com.cn/smartbi/vision/macro/wiki/dashboard/interfaces/cells.icolorscale.html</loc>
+  <lastmod>2026-01-26T08:49:43+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://certcs.cloud.smartbi.com.cn/smartbi/vision/macro/wiki/dashboard/interfaces/cells.icolumn.html</loc>
+  <lastmod>2026-01-26T08:49:43+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://certcs.cloud.smartbi.com.cn/smartbi/vision/macro/wiki/dashboard/interfaces/cells.icolumncollection.html</loc>
+  <lastmod>2026-01-26T08:49:43+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://certcs.cloud.smartbi.com.cn/smartbi/vision/macro/wiki/dashboard/interfaces/cells.icomment.html</loc>
+  <lastmod>2026-01-26T08:49:43+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://certcs.cloud.smartbi.com.cn/smartbi/vision/macro/wiki/dashboard/interfaces/cells.icommentcollection.html</loc>
+  <lastmod>2026-01-26T08:49:43+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://certcs.cloud.smartbi.com.cn/smartbi/vision/macro/wiki/dashboard/interfaces/cells.icommentshape.html</loc>
+  <lastmod>2026-01-26T08:49:43+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://certcs.cloud.smartbi.com.cn/smartbi/vision/macro/wiki/dashboard/interfaces/cells.iconditionalformattingcollection.html</loc>
+  <lastmod>2026-01-26T08:49:43+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://certcs.cloud.smartbi.com.cn/smartbi/vision/macro/wiki/dashboard/interfaces/cells.iconditionalformattingicon.html</loc>
+  <lastmod>2026-01-26T08:49:43+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://certcs.cloud.smartbi.com.cn/smartbi/vision/macro/wiki/dashboard/interfaces/cells.iconditionalformattingiconcollection.html</loc>
+  <lastmod>2026-01-26T08:49:43+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://certcs.cloud.smartbi.com.cn/smartbi/vision/macro/wiki/dashboard/interfaces/cells.iconditionalformattingresult.html</loc>
+  <lastmod>2026-01-26T08:49:43+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://certcs.cloud.smartbi.com.cn/smartbi/vision/macro/wiki/dashboard/interfaces/cells.iconditionalformattingvalue.html</loc>
+  <lastmod>2026-01-26T08:49:43+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://certcs.cloud.smartbi.com.cn/smartbi/vision/macro/wiki/dashboard/interfaces/cells.iconditionalformattingvaluecollection.html</loc>
+  <lastmod>2026-01-26T08:49:43+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://certcs.cloud.smartbi.com.cn/smartbi/vision/macro/wiki/dashboard/interfaces/cells.iconnectionparameter.html</loc>
+  <lastmod>2026-01-26T08:49:43+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://certcs.cloud.smartbi.com.cn/smartbi/vision/macro/wiki/dashboard/interfaces/cells.iconnectionparametercollection.html</loc>
+  <lastmod>2026-01-26T08:49:43+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://certcs.cloud.smartbi.com.cn/smartbi/vision/macro/wiki/dashboard/interfaces/cells.icontenttypeproperty.html</loc>
+  <lastmod>2026-01-26T08:49:43+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://certcs.cloud.smartbi.com.cn/smartbi/vision/macro/wiki/dashboard/interfaces/cells.icontenttypepropertycollection.html</loc>
+  <lastmod>2026-01-26T08:49:43+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://certcs.cloud.smartbi.com.cn/smartbi/vision/macro/wiki/dashboard/interfaces/cells.icopyoptions.html</loc>
+  <lastmod>2026-01-26T08:49:43+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://certcs.cloud.smartbi.com.cn/smartbi/vision/macro/wiki/dashboard/interfaces/cells.icustomdocumentpropertycollection.html</loc>
+  <lastmod>2026-01-26T08:49:43+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://certcs.cloud.smartbi.com.cn/smartbi/vision/macro/wiki/dashboard/interfaces/cells.icustomproperty.html</loc>
+  <lastmod>2026-01-26T08:49:43+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://certcs.cloud.smartbi.com.cn/smartbi/vision/macro/wiki/dashboard/interfaces/cells.icustompropertycollection.html</loc>
+  <lastmod>2026-01-26T08:49:43+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://certcs.cloud.smartbi.com.cn/smartbi/vision/macro/wiki/dashboard/interfaces/cells.icustomxmlpart.html</loc>
+  <lastmod>2026-01-26T08:49:43+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://certcs.cloud.smartbi.com.cn/smartbi/vision/macro/wiki/dashboard/interfaces/cells.icustomxmlpartcollection.html</loc>
+  <lastmod>2026-01-26T08:49:43+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://certcs.cloud.smartbi.com.cn/smartbi/vision/macro/wiki/dashboard/interfaces/cells.idatabar.html</loc>
+  <lastmod>2026-01-26T08:49:43+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://certcs.cloud.smartbi.com.cn/smartbi/vision/macro/wiki/dashboard/interfaces/cells.idatabarborder.html</loc>
+  <lastmod>2026-01-26T08:49:43+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://certcs.cloud.smartbi.com.cn/smartbi/vision/macro/wiki/dashboard/interfaces/cells.idatalabels.html</loc>
+  <lastmod>2026-01-26T08:49:43+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://certcs.cloud.smartbi.com.cn/smartbi/vision/macro/wiki/dashboard/interfaces/cells.idatamashup.html</loc>
+  <lastmod>2026-01-26T08:49:43+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://certcs.cloud.smartbi.com.cn/smartbi/vision/macro/wiki/dashboard/interfaces/cells.idatasorter.html</loc>
+  <lastmod>2026-01-26T08:49:43+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://certcs.cloud.smartbi.com.cn/smartbi/vision/macro/wiki/dashboard/interfaces/cells.idatasorterkeycollection.html</loc>
+  <lastmod>2026-01-26T08:49:43+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://certcs.cloud.smartbi.com.cn/smartbi/vision/macro/wiki/dashboard/interfaces/cells.idatetime.html</loc>
+  <lastmod>2026-01-26T08:49:43+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://certcs.cloud.smartbi.com.cn/smartbi/vision/macro/wiki/dashboard/interfaces/cells.ideleteoptions.html</loc>
+  <lastmod>2026-01-26T08:49:43+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://certcs.cloud.smartbi.com.cn/smartbi/vision/macro/wiki/dashboard/interfaces/cells.idigitalsignature.html</loc>
+  <lastmod>2026-01-26T08:49:43+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://certcs.cloud.smartbi.com.cn/smartbi/vision/macro/wiki/dashboard/interfaces/cells.idigitalsignaturecollection.html</loc>
+  <lastmod>2026-01-26T08:49:43+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://certcs.cloud.smartbi.com.cn/smartbi/vision/macro/wiki/dashboard/interfaces/cells.idocumentproperty.html</loc>
+  <lastmod>2026-01-26T08:49:43+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://certcs.cloud.smartbi.com.cn/smartbi/vision/macro/wiki/dashboard/interfaces/cells.idocumentpropertycollection.html</loc>
+  <lastmod>2026-01-26T08:49:43+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://certcs.cloud.smartbi.com.cn/smartbi/vision/macro/wiki/dashboard/interfaces/cells.idrawobject.html</loc>
+  <lastmod>2026-01-26T08:49:43+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://certcs.cloud.smartbi.com.cn/smartbi/vision/macro/wiki/dashboard/interfaces/cells.idrawobjecteventhandler.html</loc>
+  <lastmod>2026-01-26T08:49:43+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://certcs.cloud.smartbi.com.cn/smartbi/vision/macro/wiki/dashboard/interfaces/cells.idropbars.html</loc>
+  <lastmod>2026-01-26T08:49:43+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://certcs.cloud.smartbi.com.cn/smartbi/vision/macro/wiki/dashboard/interfaces/cells.idxfcollection.html</loc>
+  <lastmod>2026-01-26T08:49:43+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://certcs.cloud.smartbi.com.cn/smartbi/vision/macro/wiki/dashboard/interfaces/cells.iencoding.html</loc>
+  <lastmod>2026-01-26T08:49:43+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://certcs.cloud.smartbi.com.cn/smartbi/vision/macro/wiki/dashboard/interfaces/cells.ierrorbar.html</loc>
+  <lastmod>2026-01-26T08:49:43+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://certcs.cloud.smartbi.com.cn/smartbi/vision/macro/wiki/dashboard/interfaces/cells.ierrorcheckoption.html</loc>
+  <lastmod>2026-01-26T08:49:43+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://certcs.cloud.smartbi.com.cn/smartbi/vision/macro/wiki/dashboard/interfaces/cells.ierrorcheckoptioncollection.html</loc>
+  <lastmod>2026-01-26T08:49:43+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://certcs.cloud.smartbi.com.cn/smartbi/vision/macro/wiki/dashboard/interfaces/cells.iexternalconnection.html</loc>
+  <lastmod>2026-01-26T08:49:43+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://certcs.cloud.smartbi.com.cn/smartbi/vision/macro/wiki/dashboard/interfaces/cells.iexternalconnectioncollection.html</loc>
+  <lastmod>2026-01-26T08:49:43+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://certcs.cloud.smartbi.com.cn/smartbi/vision/macro/wiki/dashboard/interfaces/cells.iexternallink.html</loc>
+  <lastmod>2026-01-26T08:49:43+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://certcs.cloud.smartbi.com.cn/smartbi/vision/macro/wiki/dashboard/interfaces/cells.iexternallinkcollection.html</loc>
+  <lastmod>2026-01-26T08:49:43+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://certcs.cloud.smartbi.com.cn/smartbi/vision/macro/wiki/dashboard/interfaces/cells.ifill.html</loc>
+  <lastmod>2026-01-26T08:49:43+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://certcs.cloud.smartbi.com.cn/smartbi/vision/macro/wiki/dashboard/interfaces/cells.ifillformat.html</loc>
+  <lastmod>2026-01-26T08:49:43+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://certcs.cloud.smartbi.com.cn/smartbi/vision/macro/wiki/dashboard/interfaces/cells.ifiltercolumn.html</loc>
+  <lastmod>2026-01-26T08:49:43+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://certcs.cloud.smartbi.com.cn/smartbi/vision/macro/wiki/dashboard/interfaces/cells.ifiltercolumncollection.html</loc>
+  <lastmod>2026-01-26T08:49:43+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://certcs.cloud.smartbi.com.cn/smartbi/vision/macro/wiki/dashboard/interfaces/cells.ifindoptions.html</loc>
+  <lastmod>2026-01-26T08:49:43+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://certcs.cloud.smartbi.com.cn/smartbi/vision/macro/wiki/dashboard/interfaces/cells.ifloor.html</loc>
+  <lastmod>2026-01-26T08:49:43+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://certcs.cloud.smartbi.com.cn/smartbi/vision/macro/wiki/dashboard/interfaces/cells.ifont.html</loc>
+  <lastmod>2026-01-26T08:49:43+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://certcs.cloud.smartbi.com.cn/smartbi/vision/macro/wiki/dashboard/interfaces/cells.ifontsetting.html</loc>
+  <lastmod>2026-01-26T08:49:43+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://certcs.cloud.smartbi.com.cn/smartbi/vision/macro/wiki/dashboard/interfaces/cells.ifontsettingcollection.html</loc>
+  <lastmod>2026-01-26T08:49:43+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://certcs.cloud.smartbi.com.cn/smartbi/vision/macro/wiki/dashboard/interfaces/cells.ifontsourcebase.html</loc>
+  <lastmod>2026-01-26T08:49:43+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://certcs.cloud.smartbi.com.cn/smartbi/vision/macro/wiki/dashboard/interfaces/cells.iformat3d.html</loc>
+  <lastmod>2026-01-26T08:49:43+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://certcs.cloud.smartbi.com.cn/smartbi/vision/macro/wiki/dashboard/interfaces/cells.iformatcondition.html</loc>
+  <lastmod>2026-01-26T08:49:43+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://certcs.cloud.smartbi.com.cn/smartbi/vision/macro/wiki/dashboard/interfaces/cells.iformatconditioncollection.html</loc>
+  <lastmod>2026-01-26T08:49:43+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://certcs.cloud.smartbi.com.cn/smartbi/vision/macro/wiki/dashboard/interfaces/cells.iformulaparseoptions.html</loc>
+  <lastmod>2026-01-26T08:49:43+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://certcs.cloud.smartbi.com.cn/smartbi/vision/macro/wiki/dashboard/interfaces/cells.igeometry.html</loc>
+  <lastmod>2026-01-26T08:49:43+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://certcs.cloud.smartbi.com.cn/smartbi/vision/macro/wiki/dashboard/interfaces/cells.iglobalizationsettings.html</loc>
+  <lastmod>2026-01-26T08:49:43+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://certcs.cloud.smartbi.com.cn/smartbi/vision/macro/wiki/dashboard/interfaces/cells.igloweffect.html</loc>
+  <lastmod>2026-01-26T08:49:43+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://certcs.cloud.smartbi.com.cn/smartbi/vision/macro/wiki/dashboard/interfaces/cells.igradientfill.html</loc>
+  <lastmod>2026-01-26T08:49:43+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://certcs.cloud.smartbi.com.cn/smartbi/vision/macro/wiki/dashboard/interfaces/cells.igradientstop.html</loc>
+  <lastmod>2026-01-26T08:49:43+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://certcs.cloud.smartbi.com.cn/smartbi/vision/macro/wiki/dashboard/interfaces/cells.igradientstopcollection.html</loc>
+  <lastmod>2026-01-26T08:49:43+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://certcs.cloud.smartbi.com.cn/smartbi/vision/macro/wiki/dashboard/interfaces/cells.igroupshape.html</loc>
+  <lastmod>2026-01-26T08:49:43+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://certcs.cloud.smartbi.com.cn/smartbi/vision/macro/wiki/dashboard/interfaces/cells.iheaderfootercommand.html</loc>
+  <lastmod>2026-01-26T08:49:43+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://certcs.cloud.smartbi.com.cn/smartbi/vision/macro/wiki/dashboard/interfaces/cells.ihorizontalpagebreak.html</loc>
+  <lastmod>2026-01-26T08:49:43+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://certcs.cloud.smartbi.com.cn/smartbi/vision/macro/wiki/dashboard/interfaces/cells.ihorizontalpagebreakcollection.html</loc>
+  <lastmod>2026-01-26T08:49:43+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://certcs.cloud.smartbi.com.cn/smartbi/vision/macro/wiki/dashboard/interfaces/cells.ihyperlink.html</loc>
+  <lastmod>2026-01-26T08:49:43+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://certcs.cloud.smartbi.com.cn/smartbi/vision/macro/wiki/dashboard/interfaces/cells.ihyperlinkcollection.html</loc>
+  <lastmod>2026-01-26T08:49:43+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://certcs.cloud.smartbi.com.cn/smartbi/vision/macro/wiki/dashboard/interfaces/cells.iicellsdatatable.html</loc>
+  <lastmod>2026-01-26T08:49:43+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://certcs.cloud.smartbi.com.cn/smartbi/vision/macro/wiki/dashboard/interfaces/cells.iicustomfunction.html</loc>
+  <lastmod>2026-01-26T08:49:43+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://certcs.cloud.smartbi.com.cn/smartbi/vision/macro/wiki/dashboard/interfaces/cells.iicustomparser.html</loc>
+  <lastmod>2026-01-26T08:49:43+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://certcs.cloud.smartbi.com.cn/smartbi/vision/macro/wiki/dashboard/interfaces/cells.iipagesavingcallback.html</loc>
+  <lastmod>2026-01-26T08:49:43+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://certcs.cloud.smartbi.com.cn/smartbi/vision/macro/wiki/dashboard/interfaces/cells.iistreamprovider.html</loc>
+  <lastmod>2026-01-26T08:49:43+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://certcs.cloud.smartbi.com.cn/smartbi/vision/macro/wiki/dashboard/interfaces/cells.iiwarningcallback.html</loc>
+  <lastmod>2026-01-26T08:49:43+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://certcs.cloud.smartbi.com.cn/smartbi/vision/macro/wiki/dashboard/interfaces/cells.iiconset.html</loc>
+  <lastmod>2026-01-26T08:49:43+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://certcs.cloud.smartbi.com.cn/smartbi/vision/macro/wiki/dashboard/interfaces/cells.iimageformat.html</loc>
+  <lastmod>2026-01-26T08:49:43+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://certcs.cloud.smartbi.com.cn/smartbi/vision/macro/wiki/dashboard/interfaces/cells.iimageorprintoptions.html</loc>
+  <lastmod>2026-01-26T08:49:43+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://certcs.cloud.smartbi.com.cn/smartbi/vision/macro/wiki/dashboard/interfaces/cells.iimporttableoptions.html</loc>
+  <lastmod>2026-01-26T08:49:43+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://certcs.cloud.smartbi.com.cn/smartbi/vision/macro/wiki/dashboard/interfaces/cells.iindividualfontconfigs.html</loc>
+  <lastmod>2026-01-26T08:49:43+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://certcs.cloud.smartbi.com.cn/smartbi/vision/macro/wiki/dashboard/interfaces/cells.iinsertoptions.html</loc>
+  <lastmod>2026-01-26T08:49:43+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://certcs.cloud.smartbi.com.cn/smartbi/vision/macro/wiki/dashboard/interfaces/cells.iinterruptmonitor.html</loc>
+  <lastmod>2026-01-26T08:49:43+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://certcs.cloud.smartbi.com.cn/smartbi/vision/macro/wiki/dashboard/interfaces/cells.ilabel.html</loc>
+  <lastmod>2026-01-26T08:49:43+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://certcs.cloud.smartbi.com.cn/smartbi/vision/macro/wiki/dashboard/interfaces/cells.ilegend.html</loc>
+  <lastmod>2026-01-26T08:49:43+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://certcs.cloud.smartbi.com.cn/smartbi/vision/macro/wiki/dashboard/interfaces/cells.ilegendentry.html</loc>
+  <lastmod>2026-01-26T08:49:43+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://certcs.cloud.smartbi.com.cn/smartbi/vision/macro/wiki/dashboard/interfaces/cells.ilegendentrycollection.html</loc>
+  <lastmod>2026-01-26T08:49:43+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://certcs.cloud.smartbi.com.cn/smartbi/vision/macro/wiki/dashboard/interfaces/cells.ilightcellsdatahandler.html</loc>
+  <lastmod>2026-01-26T08:49:43+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://certcs.cloud.smartbi.com.cn/smartbi/vision/macro/wiki/dashboard/interfaces/cells.iline.html</loc>
+  <lastmod>2026-01-26T08:49:43+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://certcs.cloud.smartbi.com.cn/smartbi/vision/macro/wiki/dashboard/interfaces/cells.ilineformat.html</loc>
+  <lastmod>2026-01-26T08:49:43+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://certcs.cloud.smartbi.com.cn/smartbi/vision/macro/wiki/dashboard/interfaces/cells.ilistcolumn.html</loc>
+  <lastmod>2026-01-26T08:49:43+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://certcs.cloud.smartbi.com.cn/smartbi/vision/macro/wiki/dashboard/interfaces/cells.ilistcolumncollection.html</loc>
+  <lastmod>2026-01-26T08:49:43+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://certcs.cloud.smartbi.com.cn/smartbi/vision/macro/wiki/dashboard/interfaces/cells.ilistobject.html</loc>
+  <lastmod>2026-01-26T08:49:43+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://certcs.cloud.smartbi.com.cn/smartbi/vision/macro/wiki/dashboard/interfaces/cells.ilistobjectcollection.html</loc>
+  <lastmod>2026-01-26T08:49:43+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://certcs.cloud.smartbi.com.cn/smartbi/vision/macro/wiki/dashboard/interfaces/cells.iloadfilter.html</loc>
+  <lastmod>2026-01-26T08:49:43+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://certcs.cloud.smartbi.com.cn/smartbi/vision/macro/wiki/dashboard/interfaces/cells.iloadoptions.html</loc>
+  <lastmod>2026-01-26T08:49:43+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://certcs.cloud.smartbi.com.cn/smartbi/vision/macro/wiki/dashboard/interfaces/cells.imarker.html</loc>
+  <lastmod>2026-01-26T08:49:43+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://certcs.cloud.smartbi.com.cn/smartbi/vision/macro/wiki/dashboard/interfaces/cells.imsofillformat.html</loc>
+  <lastmod>2026-01-26T08:49:43+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://certcs.cloud.smartbi.com.cn/smartbi/vision/macro/wiki/dashboard/interfaces/cells.imsoformatpicture.html</loc>
+  <lastmod>2026-01-26T08:49:43+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://certcs.cloud.smartbi.com.cn/smartbi/vision/macro/wiki/dashboard/interfaces/cells.imsolineformat.html</loc>
+  <lastmod>2026-01-26T08:49:43+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://certcs.cloud.smartbi.com.cn/smartbi/vision/macro/wiki/dashboard/interfaces/cells.imsotextframe.html</loc>
+  <lastmod>2026-01-26T08:49:43+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://certcs.cloud.smartbi.com.cn/smartbi/vision/macro/wiki/dashboard/interfaces/cells.iname.html</loc>
+  <lastmod>2026-01-26T08:49:43+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://certcs.cloud.smartbi.com.cn/smartbi/vision/macro/wiki/dashboard/interfaces/cells.inamecollection.html</loc>
+  <lastmod>2026-01-26T08:49:43+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://certcs.cloud.smartbi.com.cn/smartbi/vision/macro/wiki/dashboard/interfaces/cells.inegativebarformat.html</loc>
+  <lastmod>2026-01-26T08:49:43+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://certcs.cloud.smartbi.com.cn/smartbi/vision/macro/wiki/dashboard/interfaces/cells.iodscellfield.html</loc>
+  <lastmod>2026-01-26T08:49:43+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://certcs.cloud.smartbi.com.cn/smartbi/vision/macro/wiki/dashboard/interfaces/cells.iodscellfieldcollection.html</loc>
+  <lastmod>2026-01-26T08:49:43+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://certcs.cloud.smartbi.com.cn/smartbi/vision/macro/wiki/dashboard/interfaces/cells.iodspagebackground.html</loc>
+  <lastmod>2026-01-26T08:49:43+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://certcs.cloud.smartbi.com.cn/smartbi/vision/macro/wiki/dashboard/interfaces/cells.ioleobject.html</loc>
+  <lastmod>2026-01-26T08:49:43+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://certcs.cloud.smartbi.com.cn/smartbi/vision/macro/wiki/dashboard/interfaces/cells.ioleobjectcollection.html</loc>
+  <lastmod>2026-01-26T08:49:43+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://certcs.cloud.smartbi.com.cn/smartbi/vision/macro/wiki/dashboard/interfaces/cells.ioutline.html</loc>
+  <lastmod>2026-01-26T08:49:43+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://certcs.cloud.smartbi.com.cn/smartbi/vision/macro/wiki/dashboard/interfaces/cells.ipageendsavingargs.html</loc>
+  <lastmod>2026-01-26T08:49:43+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://certcs.cloud.smartbi.com.cn/smartbi/vision/macro/wiki/dashboard/interfaces/cells.ipagesavingargs.html</loc>
+  <lastmod>2026-01-26T08:49:43+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://certcs.cloud.smartbi.com.cn/smartbi/vision/macro/wiki/dashboard/interfaces/cells.ipagesetup.html</loc>
+  <lastmod>2026-01-26T08:49:43+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://certcs.cloud.smartbi.com.cn/smartbi/vision/macro/wiki/dashboard/interfaces/cells.ipagestartsavingargs.html</loc>
+  <lastmod>2026-01-26T08:49:43+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://certcs.cloud.smartbi.com.cn/smartbi/vision/macro/wiki/dashboard/interfaces/cells.ipanecollection.html</loc>
+  <lastmod>2026-01-26T08:49:43+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://certcs.cloud.smartbi.com.cn/smartbi/vision/macro/wiki/dashboard/interfaces/cells.ipasteoptions.html</loc>
+  <lastmod>2026-01-26T08:49:43+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://certcs.cloud.smartbi.com.cn/smartbi/vision/macro/wiki/dashboard/interfaces/cells.ipatternfill.html</loc>
+  <lastmod>2026-01-26T08:49:43+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://certcs.cloud.smartbi.com.cn/smartbi/vision/macro/wiki/dashboard/interfaces/cells.ipicformatoption.html</loc>
+  <lastmod>2026-01-26T08:49:43+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://certcs.cloud.smartbi.com.cn/smartbi/vision/macro/wiki/dashboard/interfaces/cells.ipicture.html</loc>
+  <lastmod>2026-01-26T08:49:43+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://certcs.cloud.smartbi.com.cn/smartbi/vision/macro/wiki/dashboard/interfaces/cells.ipicturecollection.html</loc>
+  <lastmod>2026-01-26T08:49:43+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://certcs.cloud.smartbi.com.cn/smartbi/vision/macro/wiki/dashboard/interfaces/cells.ipivotfield.html</loc>
+  <lastmod>2026-01-26T08:49:43+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://certcs.cloud.smartbi.com.cn/smartbi/vision/macro/wiki/dashboard/interfaces/cells.ipivotfieldcollection.html</loc>
+  <lastmod>2026-01-26T08:49:43+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://certcs.cloud.smartbi.com.cn/smartbi/vision/macro/wiki/dashboard/interfaces/cells.ipivotfilter.html</loc>
+  <lastmod>2026-01-26T08:49:43+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://certcs.cloud.smartbi.com.cn/smartbi/vision/macro/wiki/dashboard/interfaces/cells.ipivotfiltercollection.html</loc>
+  <lastmod>2026-01-26T08:49:43+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://certcs.cloud.smartbi.com.cn/smartbi/vision/macro/wiki/dashboard/interfaces/cells.ipivotformatconditioncollection.html</loc>
+  <lastmod>2026-01-26T08:49:43+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://certcs.cloud.smartbi.com.cn/smartbi/vision/macro/wiki/dashboard/interfaces/cells.ipivotitem.html</loc>
+  <lastmod>2026-01-26T08:49:43+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://certcs.cloud.smartbi.com.cn/smartbi/vision/macro/wiki/dashboard/interfaces/cells.ipivotitemcollection.html</loc>
+  <lastmod>2026-01-26T08:49:43+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://certcs.cloud.smartbi.com.cn/smartbi/vision/macro/wiki/dashboard/interfaces/cells.ipivotoptions.html</loc>
+  <lastmod>2026-01-26T08:49:43+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://certcs.cloud.smartbi.com.cn/smartbi/vision/macro/wiki/dashboard/interfaces/cells.ipivotpagefields.html</loc>
+  <lastmod>2026-01-26T08:49:43+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://certcs.cloud.smartbi.com.cn/smartbi/vision/macro/wiki/dashboard/interfaces/cells.ipivottable.html</loc>
+  <lastmod>2026-01-26T08:49:43+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://certcs.cloud.smartbi.com.cn/smartbi/vision/macro/wiki/dashboard/interfaces/cells.ipivottablecollection.html</loc>
+  <lastmod>2026-01-26T08:49:43+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://certcs.cloud.smartbi.com.cn/smartbi/vision/macro/wiki/dashboard/interfaces/cells.iplotarea.html</loc>
+  <lastmod>2026-01-26T08:49:43+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://certcs.cloud.smartbi.com.cn/smartbi/vision/macro/wiki/dashboard/interfaces/cells.ipowerqueryformula.html</loc>
+  <lastmod>2026-01-26T08:49:43+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://certcs.cloud.smartbi.com.cn/smartbi/vision/macro/wiki/dashboard/interfaces/cells.ipowerqueryformulacollction.html</loc>
+  <lastmod>2026-01-26T08:49:43+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://certcs.cloud.smartbi.com.cn/smartbi/vision/macro/wiki/dashboard/interfaces/cells.ipowerqueryformulaitem.html</loc>
+  <lastmod>2026-01-26T08:49:43+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://certcs.cloud.smartbi.com.cn/smartbi/vision/macro/wiki/dashboard/interfaces/cells.ipowerqueryformulaitemcollection.html</loc>
+  <lastmod>2026-01-26T08:49:43+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://certcs.cloud.smartbi.com.cn/smartbi/vision/macro/wiki/dashboard/interfaces/cells.ipowerqueryformulaparameter.html</loc>
+  <lastmod>2026-01-26T08:49:43+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://certcs.cloud.smartbi.com.cn/smartbi/vision/macro/wiki/dashboard/interfaces/cells.ipowerqueryformulaparametercollection.html</loc>
+  <lastmod>2026-01-26T08:49:43+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://certcs.cloud.smartbi.com.cn/smartbi/vision/macro/wiki/dashboard/interfaces/cells.iprotectedrangecollection.html</loc>
+  <lastmod>2026-01-26T08:49:43+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://certcs.cloud.smartbi.com.cn/smartbi/vision/macro/wiki/dashboard/interfaces/cells.iprotection.html</loc>
+  <lastmod>2026-01-26T08:49:43+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://certcs.cloud.smartbi.com.cn/smartbi/vision/macro/wiki/dashboard/interfaces/cells.iquerytable.html</loc>
+  <lastmod>2026-01-26T08:49:43+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://certcs.cloud.smartbi.com.cn/smartbi/vision/macro/wiki/dashboard/interfaces/cells.iquerytablecollection.html</loc>
+  <lastmod>2026-01-26T08:49:43+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://certcs.cloud.smartbi.com.cn/smartbi/vision/macro/wiki/dashboard/interfaces/cells.irange.html</loc>
+  <lastmod>2026-01-26T08:49:43+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://certcs.cloud.smartbi.com.cn/smartbi/vision/macro/wiki/dashboard/interfaces/cells.irangecollection.html</loc>
+  <lastmod>2026-01-26T08:49:43+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://certcs.cloud.smartbi.com.cn/smartbi/vision/macro/wiki/dashboard/interfaces/cells.ireferredarea.html</loc>
+  <lastmod>2026-01-26T08:49:43+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://certcs.cloud.smartbi.com.cn/smartbi/vision/macro/wiki/dashboard/interfaces/cells.ireferredareacollection.html</loc>
+  <lastmod>2026-01-26T08:49:43+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://certcs.cloud.smartbi.com.cn/smartbi/vision/macro/wiki/dashboard/interfaces/cells.ireflectioneffect.html</loc>
+  <lastmod>2026-01-26T08:49:43+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://certcs.cloud.smartbi.com.cn/smartbi/vision/macro/wiki/dashboard/interfaces/cells.ireplaceoptions.html</loc>
+  <lastmod>2026-01-26T08:49:43+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://certcs.cloud.smartbi.com.cn/smartbi/vision/macro/wiki/dashboard/interfaces/cells.irevisioncollection.html</loc>
+  <lastmod>2026-01-26T08:49:43+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://certcs.cloud.smartbi.com.cn/smartbi/vision/macro/wiki/dashboard/interfaces/cells.irevisionlog.html</loc>
+  <lastmod>2026-01-26T08:49:43+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://certcs.cloud.smartbi.com.cn/smartbi/vision/macro/wiki/dashboard/interfaces/cells.irevisionlogcollection.html</loc>
+  <lastmod>2026-01-26T08:49:43+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://certcs.cloud.smartbi.com.cn/smartbi/vision/macro/wiki/dashboard/interfaces/cells.irow.html</loc>
+  <lastmod>2026-01-26T08:49:43+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://certcs.cloud.smartbi.com.cn/smartbi/vision/macro/wiki/dashboard/interfaces/cells.irowcollection.html</loc>
+  <lastmod>2026-01-26T08:49:43+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://certcs.cloud.smartbi.com.cn/smartbi/vision/macro/wiki/dashboard/interfaces/cells.isaveoptions.html</loc>
+  <lastmod>2026-01-26T08:49:43+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://certcs.cloud.smartbi.com.cn/smartbi/vision/macro/wiki/dashboard/interfaces/cells.iscenariocollection.html</loc>
+  <lastmod>2026-01-26T08:49:43+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://certcs.cloud.smartbi.com.cn/smartbi/vision/macro/wiki/dashboard/interfaces/cells.iseries.html</loc>
+  <lastmod>2026-01-26T08:49:43+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://certcs.cloud.smartbi.com.cn/smartbi/vision/macro/wiki/dashboard/interfaces/cells.iseriescollection.html</loc>
+  <lastmod>2026-01-26T08:49:43+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://certcs.cloud.smartbi.com.cn/smartbi/vision/macro/wiki/dashboard/interfaces/cells.iserieslayoutproperties.html</loc>
+  <lastmod>2026-01-26T08:49:43+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://certcs.cloud.smartbi.com.cn/smartbi/vision/macro/wiki/dashboard/interfaces/cells.ishadoweffect.html</loc>
+  <lastmod>2026-01-26T08:49:43+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://certcs.cloud.smartbi.com.cn/smartbi/vision/macro/wiki/dashboard/interfaces/cells.ishape.html</loc>
+  <lastmod>2026-01-26T08:49:43+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://certcs.cloud.smartbi.com.cn/smartbi/vision/macro/wiki/dashboard/interfaces/cells.ishapecollection.html</loc>
+  <lastmod>2026-01-26T08:49:43+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://certcs.cloud.smartbi.com.cn/smartbi/vision/macro/wiki/dashboard/interfaces/cells.ishapeformat.html</loc>
+  <lastmod>2026-01-26T08:49:43+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://certcs.cloud.smartbi.com.cn/smartbi/vision/macro/wiki/dashboard/interfaces/cells.ishapeguidecollection.html</loc>
+  <lastmod>2026-01-26T08:49:43+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://certcs.cloud.smartbi.com.cn/smartbi/vision/macro/wiki/dashboard/interfaces/cells.ishapepathcollection.html</loc>
+  <lastmod>2026-01-26T08:49:43+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://certcs.cloud.smartbi.com.cn/smartbi/vision/macro/wiki/dashboard/interfaces/cells.ishapepropertycollection.html</loc>
+  <lastmod>2026-01-26T08:49:43+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://certcs.cloud.smartbi.com.cn/smartbi/vision/macro/wiki/dashboard/interfaces/cells.ishapetextalignment.html</loc>
+  <lastmod>2026-01-26T08:49:43+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://certcs.cloud.smartbi.com.cn/smartbi/vision/macro/wiki/dashboard/interfaces/cells.isignatureline.html</loc>
+  <lastmod>2026-01-26T08:49:43+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://certcs.cloud.smartbi.com.cn/smartbi/vision/macro/wiki/dashboard/interfaces/cells.islicer.html</loc>
+  <lastmod>2026-01-26T08:49:43+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://certcs.cloud.smartbi.com.cn/smartbi/vision/macro/wiki/dashboard/interfaces/cells.islicercache.html</loc>
+  <lastmod>2026-01-26T08:49:43+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://certcs.cloud.smartbi.com.cn/smartbi/vision/macro/wiki/dashboard/interfaces/cells.islicercacheitemcollection.html</loc>
+  <lastmod>2026-01-26T08:49:43+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://certcs.cloud.smartbi.com.cn/smartbi/vision/macro/wiki/dashboard/interfaces/cells.islicercollection.html</loc>
+  <lastmod>2026-01-26T08:49:43+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://certcs.cloud.smartbi.com.cn/smartbi/vision/macro/wiki/dashboard/interfaces/cells.ismarttagcollection.html</loc>
+  <lastmod>2026-01-26T08:49:43+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://certcs.cloud.smartbi.com.cn/smartbi/vision/macro/wiki/dashboard/interfaces/cells.ismarttagsetting.html</loc>
+  <lastmod>2026-01-26T08:49:43+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://certcs.cloud.smartbi.com.cn/smartbi/vision/macro/wiki/dashboard/interfaces/cells.isolidfill.html</loc>
+  <lastmod>2026-01-26T08:49:43+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://certcs.cloud.smartbi.com.cn/smartbi/vision/macro/wiki/dashboard/interfaces/cells.isparklinegroupcollection.html</loc>
+  <lastmod>2026-01-26T08:49:43+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://certcs.cloud.smartbi.com.cn/smartbi/vision/macro/wiki/dashboard/interfaces/cells.istreamprovideroptions.html</loc>
+  <lastmod>2026-01-26T08:49:43+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://certcs.cloud.smartbi.com.cn/smartbi/vision/macro/wiki/dashboard/interfaces/cells.istyle.html</loc>
+  <lastmod>2026-01-26T08:49:43+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://certcs.cloud.smartbi.com.cn/smartbi/vision/macro/wiki/dashboard/interfaces/cells.istyleflag.html</loc>
+  <lastmod>2026-01-26T08:49:43+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://certcs.cloud.smartbi.com.cn/smartbi/vision/macro/wiki/dashboard/interfaces/cells.isubtotalsetting.html</loc>
+  <lastmod>2026-01-26T08:49:43+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://certcs.cloud.smartbi.com.cn/smartbi/vision/macro/wiki/dashboard/interfaces/cells.isxrng.html</loc>
+  <lastmod>2026-01-26T08:49:43+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://certcs.cloud.smartbi.com.cn/smartbi/vision/macro/wiki/dashboard/interfaces/cells.itablestyle.html</loc>
+  <lastmod>2026-01-26T08:49:43+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://certcs.cloud.smartbi.com.cn/smartbi/vision/macro/wiki/dashboard/interfaces/cells.itablestylecollection.html</loc>
+  <lastmod>2026-01-26T08:49:43+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://certcs.cloud.smartbi.com.cn/smartbi/vision/macro/wiki/dashboard/interfaces/cells.itablestyleelement.html</loc>
+  <lastmod>2026-01-26T08:49:43+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://certcs.cloud.smartbi.com.cn/smartbi/vision/macro/wiki/dashboard/interfaces/cells.itablestyleelementcollection.html</loc>
+  <lastmod>2026-01-26T08:49:43+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://certcs.cloud.smartbi.com.cn/smartbi/vision/macro/wiki/dashboard/interfaces/cells.itabletorangeoptions.html</loc>
+  <lastmod>2026-01-26T08:49:43+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://certcs.cloud.smartbi.com.cn/smartbi/vision/macro/wiki/dashboard/interfaces/cells.itextbox.html</loc>
+  <lastmod>2026-01-26T08:49:43+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://certcs.cloud.smartbi.com.cn/smartbi/vision/macro/wiki/dashboard/interfaces/cells.itextboxcollection.html</loc>
+  <lastmod>2026-01-26T08:49:43+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://certcs.cloud.smartbi.com.cn/smartbi/vision/macro/wiki/dashboard/interfaces/cells.itexteffectformat.html</loc>
+  <lastmod>2026-01-26T08:49:43+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://certcs.cloud.smartbi.com.cn/smartbi/vision/macro/wiki/dashboard/interfaces/cells.itextoptions.html</loc>
+  <lastmod>2026-01-26T08:49:43+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://certcs.cloud.smartbi.com.cn/smartbi/vision/macro/wiki/dashboard/interfaces/cells.itextparagraph.html</loc>
+  <lastmod>2026-01-26T08:49:43+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://certcs.cloud.smartbi.com.cn/smartbi/vision/macro/wiki/dashboard/interfaces/cells.itextparagraphcollection.html</loc>
+  <lastmod>2026-01-26T08:49:43+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://certcs.cloud.smartbi.com.cn/smartbi/vision/macro/wiki/dashboard/interfaces/cells.itexttabstop.html</loc>
+  <lastmod>2026-01-26T08:49:43+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://certcs.cloud.smartbi.com.cn/smartbi/vision/macro/wiki/dashboard/interfaces/cells.itexttabstopcollection.html</loc>
+  <lastmod>2026-01-26T08:49:43+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://certcs.cloud.smartbi.com.cn/smartbi/vision/macro/wiki/dashboard/interfaces/cells.itexturefill.html</loc>
+  <lastmod>2026-01-26T08:49:43+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://certcs.cloud.smartbi.com.cn/smartbi/vision/macro/wiki/dashboard/interfaces/cells.ithemecolor.html</loc>
+  <lastmod>2026-01-26T08:49:43+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://certcs.cloud.smartbi.com.cn/smartbi/vision/macro/wiki/dashboard/interfaces/cells.ithreadedcomment.html</loc>
+  <lastmod>2026-01-26T08:49:43+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://certcs.cloud.smartbi.com.cn/smartbi/vision/macro/wiki/dashboard/interfaces/cells.ithreadedcommentauthor.html</loc>
+  <lastmod>2026-01-26T08:49:43+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://certcs.cloud.smartbi.com.cn/smartbi/vision/macro/wiki/dashboard/interfaces/cells.ithreadedcommentauthorcollection.html</loc>
+  <lastmod>2026-01-26T08:49:43+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://certcs.cloud.smartbi.com.cn/smartbi/vision/macro/wiki/dashboard/interfaces/cells.ithreadedcommentcollection.html</loc>
+  <lastmod>2026-01-26T08:49:43+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://certcs.cloud.smartbi.com.cn/smartbi/vision/macro/wiki/dashboard/interfaces/cells.ithreedformat.html</loc>
+  <lastmod>2026-01-26T08:49:43+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://certcs.cloud.smartbi.com.cn/smartbi/vision/macro/wiki/dashboard/interfaces/cells.iticklabels.html</loc>
+  <lastmod>2026-01-26T08:49:43+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://certcs.cloud.smartbi.com.cn/smartbi/vision/macro/wiki/dashboard/interfaces/cells.itilepicoption.html</loc>
+  <lastmod>2026-01-26T08:49:43+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://certcs.cloud.smartbi.com.cn/smartbi/vision/macro/wiki/dashboard/interfaces/cells.ititle.html</loc>
+  <lastmod>2026-01-26T08:49:43+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://certcs.cloud.smartbi.com.cn/smartbi/vision/macro/wiki/dashboard/interfaces/cells.itop10.html</loc>
+  <lastmod>2026-01-26T08:49:43+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://certcs.cloud.smartbi.com.cn/smartbi/vision/macro/wiki/dashboard/interfaces/cells.itrendline.html</loc>
+  <lastmod>2026-01-26T08:49:43+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://certcs.cloud.smartbi.com.cn/smartbi/vision/macro/wiki/dashboard/interfaces/cells.itrendlinecollection.html</loc>
+  <lastmod>2026-01-26T08:49:43+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://certcs.cloud.smartbi.com.cn/smartbi/vision/macro/wiki/dashboard/interfaces/cells.itxtloadoptions.html</loc>
+  <lastmod>2026-01-26T08:49:43+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://certcs.cloud.smartbi.com.cn/smartbi/vision/macro/wiki/dashboard/interfaces/cells.iunionrange.html</loc>
+  <lastmod>2026-01-26T08:49:43+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://certcs.cloud.smartbi.com.cn/smartbi/vision/macro/wiki/dashboard/interfaces/cells.ivalidation.html</loc>
+  <lastmod>2026-01-26T08:49:43+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://certcs.cloud.smartbi.com.cn/smartbi/vision/macro/wiki/dashboard/interfaces/cells.ivalidationcollection.html</loc>
+  <lastmod>2026-01-26T08:49:43+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://certcs.cloud.smartbi.com.cn/smartbi/vision/macro/wiki/dashboard/interfaces/cells.ivbamodule.html</loc>
+  <lastmod>2026-01-26T08:49:43+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://certcs.cloud.smartbi.com.cn/smartbi/vision/macro/wiki/dashboard/interfaces/cells.ivbamodulecollection.html</loc>
+  <lastmod>2026-01-26T08:49:43+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://certcs.cloud.smartbi.com.cn/smartbi/vision/macro/wiki/dashboard/interfaces/cells.ivbaproject.html</loc>
+  <lastmod>2026-01-26T08:49:43+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://certcs.cloud.smartbi.com.cn/smartbi/vision/macro/wiki/dashboard/interfaces/cells.ivbaprojectreferencecollection.html</loc>
+  <lastmod>2026-01-26T08:49:43+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://certcs.cloud.smartbi.com.cn/smartbi/vision/macro/wiki/dashboard/interfaces/cells.iverticalpagebreak.html</loc>
+  <lastmod>2026-01-26T08:49:43+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://certcs.cloud.smartbi.com.cn/smartbi/vision/macro/wiki/dashboard/interfaces/cells.iverticalpagebreakcollection.html</loc>
+  <lastmod>2026-01-26T08:49:43+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://certcs.cloud.smartbi.com.cn/smartbi/vision/macro/wiki/dashboard/interfaces/cells.iwalls.html</loc>
+  <lastmod>2026-01-26T08:49:43+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://certcs.cloud.smartbi.com.cn/smartbi/vision/macro/wiki/dashboard/interfaces/cells.iwarninginfo.html</loc>
+  <lastmod>2026-01-26T08:49:43+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://certcs.cloud.smartbi.com.cn/smartbi/vision/macro/wiki/dashboard/interfaces/cells.iwebextension.html</loc>
+  <lastmod>2026-01-26T08:49:43+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://certcs.cloud.smartbi.com.cn/smartbi/vision/macro/wiki/dashboard/interfaces/cells.iwebextensionbinding.html</loc>
+  <lastmod>2026-01-26T08:49:43+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://certcs.cloud.smartbi.com.cn/smartbi/vision/macro/wiki/dashboard/interfaces/cells.iwebextensionbindingcollection.html</loc>
+  <lastmod>2026-01-26T08:49:43+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://certcs.cloud.smartbi.com.cn/smartbi/vision/macro/wiki/dashboard/interfaces/cells.iwebextensioncollection.html</loc>
+  <lastmod>2026-01-26T08:49:43+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://certcs.cloud.smartbi.com.cn/smartbi/vision/macro/wiki/dashboard/interfaces/cells.iwebextensionproperty.html</loc>
+  <lastmod>2026-01-26T08:49:43+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://certcs.cloud.smartbi.com.cn/smartbi/vision/macro/wiki/dashboard/interfaces/cells.iwebextensionpropertycollection.html</loc>
+  <lastmod>2026-01-26T08:49:43+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://certcs.cloud.smartbi.com.cn/smartbi/vision/macro/wiki/dashboard/interfaces/cells.iwebextensionreference.html</loc>
+  <lastmod>2026-01-26T08:49:43+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://certcs.cloud.smartbi.com.cn/smartbi/vision/macro/wiki/dashboard/interfaces/cells.iwebextensionreferencecollection.html</loc>
+  <lastmod>2026-01-26T08:49:43+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://certcs.cloud.smartbi.com.cn/smartbi/vision/macro/wiki/dashboard/interfaces/cells.iwebextensiontaskpane.html</loc>
+  <lastmod>2026-01-26T08:49:43+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://certcs.cloud.smartbi.com.cn/smartbi/vision/macro/wiki/dashboard/interfaces/cells.iwebextensiontaskpanecollection.html</loc>
+  <lastmod>2026-01-26T08:49:43+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://certcs.cloud.smartbi.com.cn/smartbi/vision/macro/wiki/dashboard/interfaces/cells.iworkbook.html</loc>
+  <lastmod>2026-01-26T08:49:43+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://certcs.cloud.smartbi.com.cn/smartbi/vision/macro/wiki/dashboard/interfaces/cells.iworkbooksettings.html</loc>
+  <lastmod>2026-01-26T08:49:43+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://certcs.cloud.smartbi.com.cn/smartbi/vision/macro/wiki/dashboard/interfaces/cells.iworksheet.html</loc>
+  <lastmod>2026-01-26T08:49:43+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://certcs.cloud.smartbi.com.cn/smartbi/vision/macro/wiki/dashboard/interfaces/cells.iworksheetcollection.html</loc>
+  <lastmod>2026-01-26T08:49:43+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://certcs.cloud.smartbi.com.cn/smartbi/vision/macro/wiki/dashboard/interfaces/cells.iwriteprotection.html</loc>
+  <lastmod>2026-01-26T08:49:43+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://certcs.cloud.smartbi.com.cn/smartbi/vision/macro/wiki/dashboard/interfaces/cells.ixmldatabinding.html</loc>
+  <lastmod>2026-01-26T08:49:43+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://certcs.cloud.smartbi.com.cn/smartbi/vision/macro/wiki/dashboard/interfaces/cells.ixmlmap.html</loc>
+  <lastmod>2026-01-26T08:49:43+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://certcs.cloud.smartbi.com.cn/smartbi/vision/macro/wiki/dashboard/interfaces/cells.ixmlmapcollection.html</loc>
+  <lastmod>2026-01-26T08:49:43+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://certcs.cloud.smartbi.com.cn/smartbi/vision/macro/wiki/dashboard/interfaces/cells.iza.html</loc>
+  <lastmod>2026-01-26T08:49:43+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://certcs.cloud.smartbi.com.cn/smartbi/vision/macro/wiki/dashboard/interfaces/cells.izb.html</loc>
+  <lastmod>2026-01-26T08:49:43+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://certcs.cloud.smartbi.com.cn/smartbi/vision/macro/wiki/dashboard/interfaces/cells.izc.html</loc>
+  <lastmod>2026-01-26T08:49:43+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://certcs.cloud.smartbi.com.cn/smartbi/vision/macro/wiki/dashboard/interfaces/cells.ize.html</loc>
+  <lastmod>2026-01-26T08:49:43+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://certcs.cloud.smartbi.com.cn/smartbi/vision/macro/wiki/dashboard/interfaces/cells.izj.html</loc>
+  <lastmod>2026-01-26T08:49:43+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://certcs.cloud.smartbi.com.cn/smartbi/vision/macro/wiki/dashboard/interfaces/cells.izk.html</loc>
+  <lastmod>2026-01-26T08:49:43+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://certcs.cloud.smartbi.com.cn/smartbi/vision/macro/wiki/dashboard/interfaces/cells.izm1.html</loc>
+  <lastmod>2026-01-26T08:49:43+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://certcs.cloud.smartbi.com.cn/smartbi/vision/macro/wiki/dashboard/interfaces/cells.izm2.html</loc>
+  <lastmod>2026-01-26T08:49:43+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+
+
+</urlset>

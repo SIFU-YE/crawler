@@ -1,0 +1,97 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<urlset
+      xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
+      xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+      xsi:schemaLocation="http://www.sitemaps.org/schemas/sitemap/0.9
+            http://www.sitemaps.org/schemas/sitemap/0.9/sitemap.xsd">
+<!-- created with Free Online Sitemap Generator www.xml-sitemaps.com -->
+
+
+<url>
+  <loc>https://wiki.smartbi.com.cn//api/macroapi/?smt_poid=43</loc>
+  <lastmod>2021-09-01T02:34:40+00:00</lastmod>
+  <priority>1.00</priority>
+</url>
+<url>
+  <loc>https://wiki.smartbi.com.cn//api/macroapi/classes/application.html</loc>
+  <lastmod>2021-09-01T02:34:36+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://wiki.smartbi.com.cn//api/macroapi/classes/chart.html</loc>
+  <lastmod>2021-09-01T02:34:36+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://wiki.smartbi.com.cn//api/macroapi/classes/chartView.html</loc>
+  <lastmod>2021-09-01T02:34:36+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://wiki.smartbi.com.cn//api/macroapi/classes/event.html</loc>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://wiki.smartbi.com.cn//api/macroapi/classes/param.html</loc>
+  <lastmod>2021-09-01T02:34:37+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://wiki.smartbi.com.cn//api/macroapi/classes/point.html</loc>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://wiki.smartbi.com.cn//api/macroapi/classes/simpleReport.html</loc>
+  <lastmod>2021-09-01T02:34:37+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://wiki.smartbi.com.cn//api/macroapi/classes/simpleReportContext.html</loc>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://wiki.smartbi.com.cn//api/macroapi/classes/simpleReportGrid.html</loc>
+  <lastmod>2021-09-01T02:34:38+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://wiki.smartbi.com.cn//api/macroapi/classes/spreadsheetReport.html</loc>
+  <lastmod>2021-09-01T02:34:38+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://wiki.smartbi.com.cn//api/macroapi/classes/spreadsheetReportChart.html</loc>
+  <lastmod>2021-09-01T02:34:38+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://wiki.smartbi.com.cn//api/macroapi/classes/spreadsheetReportChartPoint.html</loc>
+  <lastmod>2021-09-01T02:34:39+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://wiki.smartbi.com.cn//api/macroapi/classes/spreadsheetReportCommand.html</loc>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://wiki.smartbi.com.cn//api/macroapi/classes/spreadsheetReportWriteBack.html</loc>
+  <lastmod>2021-09-01T02:34:39+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://wiki.smartbi.com.cn//api/macroapi/index.html</loc>
+  <lastmod>2021-09-01T02:34:40+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://wiki.smartbi.com.cn//api/macroapi/classes/index.html</loc>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://wiki.smartbi.com.cn//api/macroapi/</loc>
+  <lastmod>2021-09-01T02:34:40+00:00</lastmod>
+  <priority>0.51</priority>
+</url>
+
+
+</urlset>

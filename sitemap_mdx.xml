@@ -1,0 +1,1157 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<urlset
+      xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
+      xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+      xsi:schemaLocation="http://www.sitemaps.org/schemas/sitemap/0.9
+            http://www.sitemaps.org/schemas/sitemap/0.9/sitemap.xsd">
+<!-- created with Free Online Sitemap Generator www.xml-sitemaps.com -->
+
+
+<url>
+  <loc>https://learn.microsoft.com/zh-cn/sql/mdx/multidimensional-expressions-mdx-reference?view=sql-server-ver17</loc>
+  <lastmod>2025-11-08T03:23:55+00:00</lastmod>
+  <priority>1.00</priority>
+</url>
+<url>
+  <loc>https://learn.microsoft.com/zh-cn/sql/mdx/mdx-syntax-elements-mdx?view=sql-server-ver17</loc>
+  <lastmod>2025-11-08T03:23:39+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://learn.microsoft.com/zh-cn/sql/mdx/mdx-language-reference-mdx?view=sql-server-ver17</loc>
+  <lastmod>2025-11-08T03:23:22+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://learn.microsoft.com/zh-cn/sql/mdx/identifiers-mdx?view=sql-server-ver17</loc>
+  <lastmod>2025-11-08T03:21:33+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://learn.microsoft.com/zh-cn/sql/mdx/expressions-mdx?view=sql-server-ver17</loc>
+  <lastmod>2025-11-08T03:21:13+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://learn.microsoft.com/zh-cn/sql/mdx/operators-mdx-syntax?view=sql-server-ver17</loc>
+  <lastmod>2025-11-08T03:24:13+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://learn.microsoft.com/zh-cn/sql/mdx/functions-mdx-syntax?view=sql-server-ver17</loc>
+  <lastmod>2025-11-08T03:21:22+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://learn.microsoft.com/zh-cn/sql/mdx/sum-mdx?view=sql-server-ver17</loc>
+  <lastmod>2025-11-08T03:25:11+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://learn.microsoft.com/zh-cn/sql/mdx/members-set-mdx?view=sql-server-ver17</loc>
+  <lastmod>2025-11-08T03:23:46+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://learn.microsoft.com/zh-cn/sql/mdx/comments-mdx-syntax?view=sql-server-ver17</loc>
+  <lastmod>2025-11-08T03:20:09+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://learn.microsoft.com/zh-cn/sql/mdx/reserved-keywords-mdx-syntax?view=sql-server-ver17</loc>
+  <lastmod>2025-11-08T03:24:39+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://learn.microsoft.com/zh-cn/sql/mdx/mdx-syntax-conventions-mdx?view=sql-server-ver17</loc>
+  <lastmod>2025-11-08T03:23:39+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://learn.microsoft.com/zh-cn/sql/mdx/mdx-statement-reference-mdx?view=sql-server-ver17</loc>
+  <lastmod>2025-11-08T03:23:36+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://learn.microsoft.com/zh-cn/sql/mdx/mdx-operator-reference-mdx?view=sql-server-ver17</loc>
+  <lastmod>2025-11-08T03:23:24+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://learn.microsoft.com/zh-cn/sql/mdx/mdx-function-reference-mdx?view=sql-server-ver17</loc>
+  <lastmod>2025-11-08T03:23:22+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://learn.microsoft.com/zh-cn/sql/mdx/mdx-reserved-words?view=sql-server-ver17</loc>
+  <lastmod>2025-11-08T03:23:26+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://learn.microsoft.com/zh-cn/sql/mdx/using-cube-and-subcube-expressions?view=sql-server-ver17</loc>
+  <lastmod>2025-11-08T03:25:37+00:00</lastmod>
+  <priority>0.51</priority>
+</url>
+<url>
+  <loc>https://learn.microsoft.com/zh-cn/sql/mdx/using-dimension-expressions?view=sql-server-ver17</loc>
+  <lastmod>2025-11-08T03:25:40+00:00</lastmod>
+  <priority>0.51</priority>
+</url>
+<url>
+  <loc>https://learn.microsoft.com/zh-cn/sql/mdx/using-member-expressions?view=sql-server-ver17</loc>
+  <lastmod>2025-11-08T03:25:45+00:00</lastmod>
+  <priority>0.51</priority>
+</url>
+<url>
+  <loc>https://learn.microsoft.com/zh-cn/sql/mdx/using-tuple-expressions?view=sql-server-ver17</loc>
+  <lastmod>2025-11-08T03:25:58+00:00</lastmod>
+  <priority>0.51</priority>
+</url>
+<url>
+  <loc>https://learn.microsoft.com/zh-cn/sql/mdx/using-set-expressions?view=sql-server-ver17</loc>
+  <lastmod>2025-11-08T03:25:51+00:00</lastmod>
+  <priority>0.51</priority>
+</url>
+<url>
+  <loc>https://learn.microsoft.com/zh-cn/sql/mdx/using-scalar-expressions?view=sql-server-ver17</loc>
+  <lastmod>2025-11-08T03:25:50+00:00</lastmod>
+  <priority>0.51</priority>
+</url>
+<url>
+  <loc>https://learn.microsoft.com/zh-cn/sql/mdx/working-with-empty-values?view=sql-server-ver17</loc>
+  <lastmod>2025-11-08T03:26:15+00:00</lastmod>
+  <priority>0.51</priority>
+</url>
+<url>
+  <loc>https://learn.microsoft.com/zh-cn/sql/mdx/assignment-operators?view=sql-server-ver17</loc>
+  <lastmod>2025-11-08T03:19:44+00:00</lastmod>
+  <priority>0.51</priority>
+</url>
+<url>
+  <loc>https://learn.microsoft.com/zh-cn/sql/mdx/arithmetic-operators?view=sql-server-ver17</loc>
+  <lastmod>2025-11-08T03:19:39+00:00</lastmod>
+  <priority>0.51</priority>
+</url>
+<url>
+  <loc>https://learn.microsoft.com/zh-cn/sql/mdx/bitwise-operators?view=sql-server-ver17</loc>
+  <lastmod>2025-11-08T03:19:49+00:00</lastmod>
+  <priority>0.51</priority>
+</url>
+<url>
+  <loc>https://learn.microsoft.com/zh-cn/sql/mdx/comparison-operators?view=sql-server-ver17</loc>
+  <lastmod>2025-11-08T03:20:12+00:00</lastmod>
+  <priority>0.51</priority>
+</url>
+<url>
+  <loc>https://learn.microsoft.com/zh-cn/sql/mdx/concatenation-operators?view=sql-server-ver17</loc>
+  <lastmod>2025-11-08T03:20:12+00:00</lastmod>
+  <priority>0.51</priority>
+</url>
+<url>
+  <loc>https://learn.microsoft.com/zh-cn/sql/mdx/set-operators?view=sql-server-ver17</loc>
+  <lastmod>2025-11-08T03:24:44+00:00</lastmod>
+  <priority>0.51</priority>
+</url>
+<url>
+  <loc>https://learn.microsoft.com/zh-cn/sql/mdx/unary-operators?view=sql-server-ver17</loc>
+  <lastmod>2025-11-08T03:25:23+00:00</lastmod>
+  <priority>0.51</priority>
+</url>
+<url>
+  <loc>https://learn.microsoft.com/zh-cn/sql/mdx/using-stored-procedures-mdx?view=sql-server-ver17</loc>
+  <lastmod>2025-11-08T03:25:54+00:00</lastmod>
+  <priority>0.51</priority>
+</url>
+<url>
+  <loc>https://learn.microsoft.com/zh-cn/sql/mdx/using-dimension-hierarchy-and-level-functions?view=sql-server-ver17</loc>
+  <lastmod>2025-11-08T03:25:39+00:00</lastmod>
+  <priority>0.51</priority>
+</url>
+<url>
+  <loc>https://learn.microsoft.com/zh-cn/sql/mdx/using-logical-functions?view=sql-server-ver17</loc>
+  <lastmod>2025-11-08T03:25:40+00:00</lastmod>
+  <priority>0.51</priority>
+</url>
+<url>
+  <loc>https://learn.microsoft.com/zh-cn/sql/mdx/using-member-functions?view=sql-server-ver17</loc>
+  <lastmod>2025-11-08T03:25:48+00:00</lastmod>
+  <priority>0.51</priority>
+</url>
+<url>
+  <loc>https://learn.microsoft.com/zh-cn/sql/mdx/using-mathematical-functions?view=sql-server-ver17</loc>
+  <lastmod>2025-11-08T03:25:42+00:00</lastmod>
+  <priority>0.51</priority>
+</url>
+<url>
+  <loc>https://learn.microsoft.com/zh-cn/sql/mdx/using-set-functions?view=sql-server-ver17</loc>
+  <lastmod>2025-11-08T03:25:54+00:00</lastmod>
+  <priority>0.51</priority>
+</url>
+<url>
+  <loc>https://learn.microsoft.com/zh-cn/sql/mdx/using-string-functions?view=sql-server-ver17</loc>
+  <lastmod>2025-11-08T03:25:57+00:00</lastmod>
+  <priority>0.51</priority>
+</url>
+<url>
+  <loc>https://learn.microsoft.com/zh-cn/sql/mdx/allmembers-mdx?view=sql-server-ver17</loc>
+  <lastmod>2025-11-08T03:19:33+00:00</lastmod>
+  <priority>0.51</priority>
+</url>
+<url>
+  <loc>https://learn.microsoft.com/zh-cn/sql/mdx/comment-mdx-double-slash?view=sql-server-ver17</loc>
+  <lastmod>2025-11-08T03:20:04+00:00</lastmod>
+  <priority>0.51</priority>
+</url>
+<url>
+  <loc>https://learn.microsoft.com/zh-cn/sql/mdx/comment-mdx-operator-reference?view=sql-server-ver17</loc>
+  <lastmod>2025-11-08T03:20:08+00:00</lastmod>
+  <priority>0.51</priority>
+</url>
+<url>
+  <loc>https://learn.microsoft.com/zh-cn/sql/mdx/comment-mdx?view=sql-server-ver17</loc>
+  <lastmod>2025-11-08T03:20:08+00:00</lastmod>
+  <priority>0.51</priority>
+</url>
+<url>
+  <loc>https://learn.microsoft.com/zh-cn/sql/mdx/mdx-scripting-statements-mdx?view=sql-server-ver17</loc>
+  <lastmod>2025-11-08T03:23:34+00:00</lastmod>
+  <priority>0.51</priority>
+</url>
+<url>
+  <loc>https://learn.microsoft.com/zh-cn/sql/mdx/mdx-data-definition-statements-mdx?view=sql-server-ver17</loc>
+  <lastmod>2025-11-08T03:23:09+00:00</lastmod>
+  <priority>0.51</priority>
+</url>
+<url>
+  <loc>https://learn.microsoft.com/zh-cn/sql/mdx/mdx-data-manipulation-statements-mdx?view=sql-server-ver17</loc>
+  <lastmod>2025-11-08T03:23:18+00:00</lastmod>
+  <priority>0.51</priority>
+</url>
+<url>
+  <loc>https://learn.microsoft.com/zh-cn/sql/mdx/except-mdx-operator?view=sql-server-ver17</loc>
+  <lastmod>2025-11-08T03:21:08+00:00</lastmod>
+  <priority>0.51</priority>
+</url>
+<url>
+  <loc>https://learn.microsoft.com/zh-cn/sql/mdx/negative-mdx?view=sql-server-ver17</loc>
+  <lastmod>2025-11-08T03:24:01+00:00</lastmod>
+  <priority>0.51</priority>
+</url>
+<url>
+  <loc>https://learn.microsoft.com/zh-cn/sql/mdx/subtract-mdx?view=sql-server-ver17</loc>
+  <lastmod>2025-11-08T03:25:09+00:00</lastmod>
+  <priority>0.51</priority>
+</url>
+<url>
+  <loc>https://learn.microsoft.com/zh-cn/sql/mdx/crossjoin-mdx-operator-reference?view=sql-server-ver17</loc>
+  <lastmod>2025-11-08T03:20:29+00:00</lastmod>
+  <priority>0.51</priority>
+</url>
+<url>
+  <loc>https://learn.microsoft.com/zh-cn/sql/mdx/multiply-mdx?view=sql-server-ver17</loc>
+  <lastmod>2025-11-08T03:23:56+00:00</lastmod>
+  <priority>0.51</priority>
+</url>
+<url>
+  <loc>https://learn.microsoft.com/zh-cn/sql/mdx/divide-mdx-operator-reference?view=sql-server-ver17</loc>
+  <lastmod>2025-11-08T03:20:49+00:00</lastmod>
+  <priority>0.51</priority>
+</url>
+<url>
+  <loc>https://learn.microsoft.com/zh-cn/sql/mdx/power-mdx?view=sql-server-ver17</loc>
+  <lastmod>2025-11-08T03:24:26+00:00</lastmod>
+  <priority>0.51</priority>
+</url>
+<url>
+  <loc>https://learn.microsoft.com/zh-cn/sql/mdx/range-mdx?view=sql-server-ver17</loc>
+  <lastmod>2025-11-08T03:24:36+00:00</lastmod>
+  <priority>0.51</priority>
+</url>
+<url>
+  <loc>https://learn.microsoft.com/zh-cn/sql/mdx/add-mdx?view=sql-server-ver17</loc>
+  <lastmod>2025-11-08T03:19:31+00:00</lastmod>
+  <priority>0.51</priority>
+</url>
+<url>
+  <loc>https://learn.microsoft.com/zh-cn/sql/mdx/positive-mdx?view=sql-server-ver17</loc>
+  <lastmod>2025-11-08T03:24:26+00:00</lastmod>
+  <priority>0.51</priority>
+</url>
+<url>
+  <loc>https://learn.microsoft.com/zh-cn/sql/mdx/string-concatenation-mdx?view=sql-server-ver17</loc>
+  <lastmod>2025-11-08T03:24:58+00:00</lastmod>
+  <priority>0.51</priority>
+</url>
+<url>
+  <loc>https://learn.microsoft.com/zh-cn/sql/mdx/union-mdx-operator-reference?view=sql-server-ver17</loc>
+  <lastmod>2025-11-08T03:25:27+00:00</lastmod>
+  <priority>0.51</priority>
+</url>
+<url>
+  <loc>https://learn.microsoft.com/zh-cn/sql/mdx/less-than-mdx?view=sql-server-ver17</loc>
+  <lastmod>2025-11-08T03:22:13+00:00</lastmod>
+  <priority>0.51</priority>
+</url>
+<url>
+  <loc>https://learn.microsoft.com/zh-cn/sql/mdx/less-than-or-equal-to-mdx?view=sql-server-ver17</loc>
+  <lastmod>2025-11-08T03:22:16+00:00</lastmod>
+  <priority>0.51</priority>
+</url>
+<url>
+  <loc>https://learn.microsoft.com/zh-cn/sql/mdx/not-equal-to-mdx?view=sql-server-ver17</loc>
+  <lastmod>2025-11-08T03:24:08+00:00</lastmod>
+  <priority>0.51</priority>
+</url>
+<url>
+  <loc>https://learn.microsoft.com/zh-cn/sql/mdx/equal-to-mdx?view=sql-server-ver17</loc>
+  <lastmod>2025-11-08T03:21:04+00:00</lastmod>
+  <priority>0.51</priority>
+</url>
+<url>
+  <loc>https://learn.microsoft.com/zh-cn/sql/mdx/greater-than-mdx?view=sql-server-ver17</loc>
+  <lastmod>2025-11-08T03:21:24+00:00</lastmod>
+  <priority>0.51</priority>
+</url>
+<url>
+  <loc>https://learn.microsoft.com/zh-cn/sql/mdx/greater-than-or-equal-to-mdx?view=sql-server-ver17</loc>
+  <lastmod>2025-11-08T03:21:25+00:00</lastmod>
+  <priority>0.51</priority>
+</url>
+<url>
+  <loc>https://learn.microsoft.com/zh-cn/sql/mdx/and-mdx?view=sql-server-ver17</loc>
+  <lastmod>2025-11-08T03:19:37+00:00</lastmod>
+  <priority>0.51</priority>
+</url>
+<url>
+  <loc>https://learn.microsoft.com/zh-cn/sql/mdx/is-mdx?view=sql-server-ver17</loc>
+  <lastmod>2025-11-08T03:21:40+00:00</lastmod>
+  <priority>0.51</priority>
+</url>
+<url>
+  <loc>https://learn.microsoft.com/zh-cn/sql/mdx/not-mdx?view=sql-server-ver17</loc>
+  <lastmod>2025-11-08T03:24:09+00:00</lastmod>
+  <priority>0.51</priority>
+</url>
+<url>
+  <loc>https://learn.microsoft.com/zh-cn/sql/mdx/or-mdx?view=sql-server-ver17</loc>
+  <lastmod>2025-11-08T03:24:16+00:00</lastmod>
+  <priority>0.51</priority>
+</url>
+<url>
+  <loc>https://learn.microsoft.com/zh-cn/sql/mdx/xor-mdx?view=sql-server-ver17</loc>
+  <lastmod>2025-11-08T03:26:17+00:00</lastmod>
+  <priority>0.51</priority>
+</url>
+<url>
+  <loc>https://learn.microsoft.com/zh-cn/sql/mdx/settoarray-mdx?view=sql-server-ver17</loc>
+  <lastmod>2025-11-08T03:24:47+00:00</lastmod>
+  <priority>0.51</priority>
+</url>
+<url>
+  <loc>https://learn.microsoft.com/zh-cn/sql/mdx/hierarchy-mdx?view=sql-server-ver17</loc>
+  <lastmod>2025-11-08T03:21:31+00:00</lastmod>
+  <priority>0.51</priority>
+</url>
+<url>
+  <loc>https://learn.microsoft.com/zh-cn/sql/mdx/dimension-mdx?view=sql-server-ver17</loc>
+  <lastmod>2025-11-08T03:20:41+00:00</lastmod>
+  <priority>0.51</priority>
+</url>
+<url>
+  <loc>https://learn.microsoft.com/zh-cn/sql/mdx/dimensions-mdx?view=sql-server-ver17</loc>
+  <lastmod>2025-11-08T03:20:44+00:00</lastmod>
+  <priority>0.51</priority>
+</url>
+<url>
+  <loc>https://learn.microsoft.com/zh-cn/sql/mdx/level-mdx?view=sql-server-ver17</loc>
+  <lastmod>2025-11-08T03:22:19+00:00</lastmod>
+  <priority>0.51</priority>
+</url>
+<url>
+  <loc>https://learn.microsoft.com/zh-cn/sql/mdx/levels-mdx?view=sql-server-ver17</loc>
+  <lastmod>2025-11-08T03:22:19+00:00</lastmod>
+  <priority>0.51</priority>
+</url>
+<url>
+  <loc>https://learn.microsoft.com/zh-cn/sql/mdx/isancestor-mdx?view=sql-server-ver17</loc>
+  <lastmod>2025-11-08T03:21:42+00:00</lastmod>
+  <priority>0.51</priority>
+</url>
+<url>
+  <loc>https://learn.microsoft.com/zh-cn/sql/mdx/isempty-mdx?view=sql-server-ver17</loc>
+  <lastmod>2025-11-08T03:21:45+00:00</lastmod>
+  <priority>0.51</priority>
+</url>
+<url>
+  <loc>https://learn.microsoft.com/zh-cn/sql/mdx/isgeneration-mdx?view=sql-server-ver17</loc>
+  <lastmod>2025-11-08T03:21:44+00:00</lastmod>
+  <priority>0.51</priority>
+</url>
+<url>
+  <loc>https://learn.microsoft.com/zh-cn/sql/mdx/isleaf-mdx?view=sql-server-ver17</loc>
+  <lastmod>2025-11-08T03:21:46+00:00</lastmod>
+  <priority>0.51</priority>
+</url>
+<url>
+  <loc>https://learn.microsoft.com/zh-cn/sql/mdx/issibling-mdx?view=sql-server-ver17</loc>
+  <lastmod>2025-11-08T03:21:48+00:00</lastmod>
+  <priority>0.51</priority>
+</url>
+<url>
+  <loc>https://learn.microsoft.com/zh-cn/sql/mdx/ancestor-mdx?view=sql-server-ver17</loc>
+  <lastmod>2025-11-08T03:19:35+00:00</lastmod>
+  <priority>0.51</priority>
+</url>
+<url>
+  <loc>https://learn.microsoft.com/zh-cn/sql/mdx/closingperiod-mdx?view=sql-server-ver17</loc>
+  <lastmod>2025-11-08T03:20:01+00:00</lastmod>
+  <priority>0.51</priority>
+</url>
+<url>
+  <loc>https://learn.microsoft.com/zh-cn/sql/mdx/cousin-mdx?view=sql-server-ver17</loc>
+  <lastmod>2025-11-08T03:20:23+00:00</lastmod>
+  <priority>0.51</priority>
+</url>
+<url>
+  <loc>https://learn.microsoft.com/zh-cn/sql/mdx/currentmember-mdx?view=sql-server-ver17</loc>
+  <lastmod>2025-11-08T03:20:33+00:00</lastmod>
+  <priority>0.51</priority>
+</url>
+<url>
+  <loc>https://learn.microsoft.com/zh-cn/sql/mdx/datamember-mdx?view=sql-server-ver17</loc>
+  <lastmod>2025-11-08T03:20:37+00:00</lastmod>
+  <priority>0.51</priority>
+</url>
+<url>
+  <loc>https://learn.microsoft.com/zh-cn/sql/mdx/defaultmember-mdx?view=sql-server-ver17</loc>
+  <lastmod>2025-11-08T03:20:39+00:00</lastmod>
+  <priority>0.51</priority>
+</url>
+<url>
+  <loc>https://learn.microsoft.com/zh-cn/sql/mdx/firstchild-mdx?view=sql-server-ver17</loc>
+  <lastmod>2025-11-08T03:21:16+00:00</lastmod>
+  <priority>0.51</priority>
+</url>
+<url>
+  <loc>https://learn.microsoft.com/zh-cn/sql/mdx/firstsibling-mdx?view=sql-server-ver17</loc>
+  <lastmod>2025-11-08T03:21:20+00:00</lastmod>
+  <priority>0.51</priority>
+</url>
+<url>
+  <loc>https://learn.microsoft.com/zh-cn/sql/mdx/item-member-mdx?view=sql-server-ver17</loc>
+  <lastmod>2025-11-08T03:21:49+00:00</lastmod>
+  <priority>0.51</priority>
+</url>
+<url>
+  <loc>https://learn.microsoft.com/zh-cn/sql/mdx/lag-mdx?view=sql-server-ver17</loc>
+  <lastmod>2025-11-08T03:22:04+00:00</lastmod>
+  <priority>0.51</priority>
+</url>
+<url>
+  <loc>https://learn.microsoft.com/zh-cn/sql/mdx/lastchild-mdx?view=sql-server-ver17</loc>
+  <lastmod>2025-11-08T03:22:03+00:00</lastmod>
+  <priority>0.51</priority>
+</url>
+<url>
+  <loc>https://learn.microsoft.com/zh-cn/sql/mdx/lastsibling-mdx?view=sql-server-ver17</loc>
+  <lastmod>2025-11-08T03:22:07+00:00</lastmod>
+  <priority>0.51</priority>
+</url>
+<url>
+  <loc>https://learn.microsoft.com/zh-cn/sql/mdx/lead-mdx?view=sql-server-ver17</loc>
+  <lastmod>2025-11-08T03:22:10+00:00</lastmod>
+  <priority>0.51</priority>
+</url>
+<url>
+  <loc>https://learn.microsoft.com/zh-cn/sql/mdx/linkmember-mdx?view=sql-server-ver17</loc>
+  <lastmod>2025-11-08T03:22:22+00:00</lastmod>
+  <priority>0.51</priority>
+</url>
+<url>
+  <loc>https://learn.microsoft.com/zh-cn/sql/mdx/members-string-mdx?view=sql-server-ver17</loc>
+  <lastmod>2025-11-08T03:23:47+00:00</lastmod>
+  <priority>0.51</priority>
+</url>
+<url>
+  <loc>https://learn.microsoft.com/zh-cn/sql/mdx/nextmember-mdx?view=sql-server-ver17</loc>
+  <lastmod>2025-11-08T03:24:04+00:00</lastmod>
+  <priority>0.51</priority>
+</url>
+<url>
+  <loc>https://learn.microsoft.com/zh-cn/sql/mdx/openingperiod-mdx?view=sql-server-ver17</loc>
+  <lastmod>2025-11-08T03:24:11+00:00</lastmod>
+  <priority>0.51</priority>
+</url>
+<url>
+  <loc>https://learn.microsoft.com/zh-cn/sql/mdx/parallelperiod-mdx?view=sql-server-ver17</loc>
+  <lastmod>2025-11-08T03:24:19+00:00</lastmod>
+  <priority>0.51</priority>
+</url>
+<url>
+  <loc>https://learn.microsoft.com/zh-cn/sql/mdx/parent-mdx?view=sql-server-ver17</loc>
+  <lastmod>2025-11-08T03:24:22+00:00</lastmod>
+  <priority>0.51</priority>
+</url>
+<url>
+  <loc>https://learn.microsoft.com/zh-cn/sql/mdx/prevmember-mdx?view=sql-server-ver17</loc>
+  <lastmod>2025-11-08T03:24:29+00:00</lastmod>
+  <priority>0.51</priority>
+</url>
+<url>
+  <loc>https://learn.microsoft.com/zh-cn/sql/mdx/strtomember-mdx?view=sql-server-ver17</loc>
+  <lastmod>2025-11-08T03:25:01+00:00</lastmod>
+  <priority>0.51</priority>
+</url>
+<url>
+  <loc>https://learn.microsoft.com/zh-cn/sql/mdx/unknownmember-mdx?view=sql-server-ver17</loc>
+  <lastmod>2025-11-08T03:25:29+00:00</lastmod>
+  <priority>0.51</priority>
+</url>
+<url>
+  <loc>https://learn.microsoft.com/zh-cn/sql/mdx/validmeasure-mdx?view=sql-server-ver17</loc>
+  <lastmod>2025-11-08T03:26:01+00:00</lastmod>
+  <priority>0.51</priority>
+</url>
+<url>
+  <loc>https://learn.microsoft.com/zh-cn/sql/mdx/aggregate-mdx?view=sql-server-ver17</loc>
+  <lastmod>2025-11-08T03:19:31+00:00</lastmod>
+  <priority>0.51</priority>
+</url>
+<url>
+  <loc>https://learn.microsoft.com/zh-cn/sql/mdx/avg-mdx?view=sql-server-ver17</loc>
+  <lastmod>2025-11-08T03:19:44+00:00</lastmod>
+  <priority>0.51</priority>
+</url>
+<url>
+  <loc>https://learn.microsoft.com/zh-cn/sql/mdx/calculationcurrentpass-mdx?view=sql-server-ver17</loc>
+  <lastmod>2025-11-08T03:19:55+00:00</lastmod>
+  <priority>0.51</priority>
+</url>
+<url>
+  <loc>https://learn.microsoft.com/zh-cn/sql/mdx/calculationpassvalue-mdx?view=sql-server-ver17</loc>
+  <lastmod>2025-11-08T03:19:58+00:00</lastmod>
+  <priority>0.51</priority>
+</url>
+<url>
+  <loc>https://learn.microsoft.com/zh-cn/sql/mdx/coalesceempty-mdx?view=sql-server-ver17</loc>
+  <lastmod>2025-11-08T03:20:03+00:00</lastmod>
+  <priority>0.51</priority>
+</url>
+<url>
+  <loc>https://learn.microsoft.com/zh-cn/sql/mdx/correlation-mdx?view=sql-server-ver17</loc>
+  <lastmod>2025-11-08T03:20:14+00:00</lastmod>
+  <priority>0.51</priority>
+</url>
+<url>
+  <loc>https://learn.microsoft.com/zh-cn/sql/mdx/count-dimension-mdx?view=sql-server-ver17</loc>
+  <lastmod>2025-11-08T03:20:17+00:00</lastmod>
+  <priority>0.51</priority>
+</url>
+<url>
+  <loc>https://learn.microsoft.com/zh-cn/sql/mdx/count-hierarchy-levels-mdx?view=sql-server-ver17</loc>
+  <lastmod>2025-11-08T03:20:17+00:00</lastmod>
+  <priority>0.51</priority>
+</url>
+<url>
+  <loc>https://learn.microsoft.com/zh-cn/sql/mdx/count-set-mdx?view=sql-server-ver17</loc>
+  <lastmod>2025-11-08T03:20:18+00:00</lastmod>
+  <priority>0.51</priority>
+</url>
+<url>
+  <loc>https://learn.microsoft.com/zh-cn/sql/mdx/count-tuple-mdx?view=sql-server-ver17</loc>
+  <lastmod>2025-11-08T03:20:21+00:00</lastmod>
+  <priority>0.51</priority>
+</url>
+<url>
+  <loc>https://learn.microsoft.com/zh-cn/sql/mdx/covariance-mdx?view=sql-server-ver17</loc>
+  <lastmod>2025-11-08T03:20:23+00:00</lastmod>
+  <priority>0.51</priority>
+</url>
+<url>
+  <loc>https://learn.microsoft.com/zh-cn/sql/mdx/covariancen-mdx?view=sql-server-ver17</loc>
+  <lastmod>2025-11-08T03:20:28+00:00</lastmod>
+  <priority>0.51</priority>
+</url>
+<url>
+  <loc>https://learn.microsoft.com/zh-cn/sql/mdx/distinctcount-mdx?view=sql-server-ver17</loc>
+  <lastmod>2025-11-08T03:20:47+00:00</lastmod>
+  <priority>0.51</priority>
+</url>
+<url>
+  <loc>https://learn.microsoft.com/zh-cn/sql/mdx/iif-mdx?view=sql-server-ver17</loc>
+  <lastmod>2025-11-08T03:21:33+00:00</lastmod>
+  <priority>0.51</priority>
+</url>
+<url>
+  <loc>https://learn.microsoft.com/zh-cn/sql/mdx/linregintercept-mdx?view=sql-server-ver17</loc>
+  <lastmod>2025-11-08T03:22:24+00:00</lastmod>
+  <priority>0.51</priority>
+</url>
+<url>
+  <loc>https://learn.microsoft.com/zh-cn/sql/mdx/linregpoint-mdx?view=sql-server-ver17</loc>
+  <lastmod>2025-11-08T03:22:25+00:00</lastmod>
+  <priority>0.51</priority>
+</url>
+<url>
+  <loc>https://learn.microsoft.com/zh-cn/sql/mdx/linregr2-mdx?view=sql-server-ver17</loc>
+  <lastmod>2025-11-08T03:22:27+00:00</lastmod>
+  <priority>0.51</priority>
+</url>
+<url>
+  <loc>https://learn.microsoft.com/zh-cn/sql/mdx/linregslope-mdx?view=sql-server-ver17</loc>
+  <lastmod>2025-11-08T03:22:30+00:00</lastmod>
+  <priority>0.51</priority>
+</url>
+<url>
+  <loc>https://learn.microsoft.com/zh-cn/sql/mdx/linregvariance-mdx?view=sql-server-ver17</loc>
+  <lastmod>2025-11-08T03:22:31+00:00</lastmod>
+  <priority>0.51</priority>
+</url>
+<url>
+  <loc>https://learn.microsoft.com/zh-cn/sql/mdx/lookupcube-mdx?view=sql-server-ver17</loc>
+  <lastmod>2025-11-08T03:22:34+00:00</lastmod>
+  <priority>0.51</priority>
+</url>
+<url>
+  <loc>https://learn.microsoft.com/zh-cn/sql/mdx/max-mdx?view=sql-server-ver17</loc>
+  <lastmod>2025-11-08T03:22:34+00:00</lastmod>
+  <priority>0.51</priority>
+</url>
+<url>
+  <loc>https://learn.microsoft.com/zh-cn/sql/mdx/median-mdx?view=sql-server-ver17</loc>
+  <lastmod>2025-11-08T03:23:44+00:00</lastmod>
+  <priority>0.51</priority>
+</url>
+<url>
+  <loc>https://learn.microsoft.com/zh-cn/sql/mdx/min-mdx?view=sql-server-ver17</loc>
+  <lastmod>2025-11-08T03:23:53+00:00</lastmod>
+  <priority>0.51</priority>
+</url>
+<url>
+  <loc>https://learn.microsoft.com/zh-cn/sql/mdx/ordinal-mdx?view=sql-server-ver17</loc>
+  <lastmod>2025-11-08T03:24:17+00:00</lastmod>
+  <priority>0.51</priority>
+</url>
+<url>
+  <loc>https://learn.microsoft.com/zh-cn/sql/mdx/predict-mdx?view=sql-server-ver17</loc>
+  <lastmod>2025-11-08T03:24:28+00:00</lastmod>
+  <priority>0.51</priority>
+</url>
+<url>
+  <loc>https://learn.microsoft.com/zh-cn/sql/mdx/rank-mdx?view=sql-server-ver17</loc>
+  <lastmod>2025-11-08T03:24:36+00:00</lastmod>
+  <priority>0.51</priority>
+</url>
+<url>
+  <loc>https://learn.microsoft.com/zh-cn/sql/mdx/rollupchildren-mdx?view=sql-server-ver17</loc>
+  <lastmod>2025-11-08T03:24:39+00:00</lastmod>
+  <priority>0.51</priority>
+</url>
+<url>
+  <loc>https://learn.microsoft.com/zh-cn/sql/mdx/stddev-mdx?view=sql-server-ver17</loc>
+  <lastmod>2025-11-08T03:24:52+00:00</lastmod>
+  <priority>0.51</priority>
+</url>
+<url>
+  <loc>https://learn.microsoft.com/zh-cn/sql/mdx/stdev-mdx?view=sql-server-ver17</loc>
+  <lastmod>2025-11-08T03:24:53+00:00</lastmod>
+  <priority>0.51</priority>
+</url>
+<url>
+  <loc>https://learn.microsoft.com/zh-cn/sql/mdx/stddevp-mdx?view=sql-server-ver17</loc>
+  <lastmod>2025-11-08T03:24:53+00:00</lastmod>
+  <priority>0.51</priority>
+</url>
+<url>
+  <loc>https://learn.microsoft.com/zh-cn/sql/mdx/stdevp-mdx?view=sql-server-ver17</loc>
+  <lastmod>2025-11-08T03:24:54+00:00</lastmod>
+  <priority>0.51</priority>
+</url>
+<url>
+  <loc>https://learn.microsoft.com/zh-cn/sql/mdx/strtovalue-mdx?view=sql-server-ver17</loc>
+  <lastmod>2025-11-08T03:25:06+00:00</lastmod>
+  <priority>0.51</priority>
+</url>
+<url>
+  <loc>https://learn.microsoft.com/zh-cn/sql/mdx/value-mdx?view=sql-server-ver17</loc>
+  <lastmod>2025-11-08T03:26:03+00:00</lastmod>
+  <priority>0.51</priority>
+</url>
+<url>
+  <loc>https://learn.microsoft.com/zh-cn/sql/mdx/var-mdx?view=sql-server-ver17</loc>
+  <lastmod>2025-11-08T03:26:03+00:00</lastmod>
+  <priority>0.51</priority>
+</url>
+<url>
+  <loc>https://learn.microsoft.com/zh-cn/sql/mdx/variance-mdx?view=sql-server-ver17</loc>
+  <lastmod>2025-11-08T03:26:04+00:00</lastmod>
+  <priority>0.51</priority>
+</url>
+<url>
+  <loc>https://learn.microsoft.com/zh-cn/sql/mdx/variancep-mdx?view=sql-server-ver17</loc>
+  <lastmod>2025-11-08T03:26:07+00:00</lastmod>
+  <priority>0.51</priority>
+</url>
+<url>
+  <loc>https://learn.microsoft.com/zh-cn/sql/mdx/varp-mdx?view=sql-server-ver17</loc>
+  <lastmod>2025-11-08T03:26:07+00:00</lastmod>
+  <priority>0.51</priority>
+</url>
+<url>
+  <loc>https://learn.microsoft.com/zh-cn/sql/mdx/addcalculatedmembers-mdx?view=sql-server-ver17</loc>
+  <lastmod>2025-11-08T03:19:32+00:00</lastmod>
+  <priority>0.51</priority>
+</url>
+<url>
+  <loc>https://learn.microsoft.com/zh-cn/sql/mdx/ancestors-mdx?view=sql-server-ver17</loc>
+  <lastmod>2025-11-08T03:19:36+00:00</lastmod>
+  <priority>0.51</priority>
+</url>
+<url>
+  <loc>https://learn.microsoft.com/zh-cn/sql/mdx/ascendants-mdx?view=sql-server-ver17</loc>
+  <lastmod>2025-11-08T03:19:42+00:00</lastmod>
+  <priority>0.51</priority>
+</url>
+<url>
+  <loc>https://learn.microsoft.com/zh-cn/sql/mdx/axis-mdx?view=sql-server-ver17</loc>
+  <lastmod>2025-11-08T03:19:46+00:00</lastmod>
+  <priority>0.51</priority>
+</url>
+<url>
+  <loc>https://learn.microsoft.com/zh-cn/sql/mdx/bottomcount-mdx?view=sql-server-ver17</loc>
+  <lastmod>2025-11-08T03:19:51+00:00</lastmod>
+  <priority>0.51</priority>
+</url>
+<url>
+  <loc>https://learn.microsoft.com/zh-cn/sql/mdx/bottompercent-mdx?view=sql-server-ver17</loc>
+  <lastmod>2025-11-08T03:19:51+00:00</lastmod>
+  <priority>0.51</priority>
+</url>
+<url>
+  <loc>https://learn.microsoft.com/zh-cn/sql/mdx/bottomsum-mdx?view=sql-server-ver17</loc>
+  <lastmod>2025-11-08T03:19:54+00:00</lastmod>
+  <priority>0.51</priority>
+</url>
+<url>
+  <loc>https://learn.microsoft.com/zh-cn/sql/mdx/children-mdx?view=sql-server-ver17</loc>
+  <lastmod>2025-11-08T03:20:00+00:00</lastmod>
+  <priority>0.51</priority>
+</url>
+<url>
+  <loc>https://learn.microsoft.com/zh-cn/sql/mdx/crossjoin-mdx?view=sql-server-ver17</loc>
+  <lastmod>2025-11-08T03:20:31+00:00</lastmod>
+  <priority>0.51</priority>
+</url>
+<url>
+  <loc>https://learn.microsoft.com/zh-cn/sql/mdx/currentordinal-mdx?view=sql-server-ver17</loc>
+  <lastmod>2025-11-08T03:20:34+00:00</lastmod>
+  <priority>0.51</priority>
+</url>
+<url>
+  <loc>https://learn.microsoft.com/zh-cn/sql/mdx/descendants-mdx?view=sql-server-ver17</loc>
+  <lastmod>2025-11-08T03:20:40+00:00</lastmod>
+  <priority>0.51</priority>
+</url>
+<url>
+  <loc>https://learn.microsoft.com/zh-cn/sql/mdx/distinct-mdx?view=sql-server-ver17</loc>
+  <lastmod>2025-11-08T03:20:46+00:00</lastmod>
+  <priority>0.51</priority>
+</url>
+<url>
+  <loc>https://learn.microsoft.com/zh-cn/sql/mdx/drilldownlevel-mdx?view=sql-server-ver17</loc>
+  <lastmod>2025-11-08T03:20:52+00:00</lastmod>
+  <priority>0.51</priority>
+</url>
+<url>
+  <loc>https://learn.microsoft.com/zh-cn/sql/mdx/drilldownlevelbottom-mdx?view=sql-server-ver17</loc>
+  <lastmod>2025-11-08T03:20:54+00:00</lastmod>
+  <priority>0.51</priority>
+</url>
+<url>
+  <loc>https://learn.microsoft.com/zh-cn/sql/mdx/drilldownleveltop-mdx?view=sql-server-ver17</loc>
+  <lastmod>2025-11-08T03:20:56+00:00</lastmod>
+  <priority>0.51</priority>
+</url>
+<url>
+  <loc>https://learn.microsoft.com/zh-cn/sql/mdx/drilldownmember-mdx?view=sql-server-ver17</loc>
+  <lastmod>2025-11-08T03:20:57+00:00</lastmod>
+  <priority>0.51</priority>
+</url>
+<url>
+  <loc>https://learn.microsoft.com/zh-cn/sql/mdx/drilldownmemberbottom-mdx?view=sql-server-ver17</loc>
+  <lastmod>2025-11-08T03:20:58+00:00</lastmod>
+  <priority>0.51</priority>
+</url>
+<url>
+  <loc>https://learn.microsoft.com/zh-cn/sql/mdx/drilldownmembertop-mdx?view=sql-server-ver17</loc>
+  <lastmod>2025-11-08T03:20:59+00:00</lastmod>
+  <priority>0.51</priority>
+</url>
+<url>
+  <loc>https://learn.microsoft.com/zh-cn/sql/mdx/drilluplevel-mdx?view=sql-server-ver17</loc>
+  <lastmod>2025-11-08T03:21:02+00:00</lastmod>
+  <priority>0.51</priority>
+</url>
+<url>
+  <loc>https://learn.microsoft.com/zh-cn/sql/mdx/drillupmember-mdx?view=sql-server-ver17</loc>
+  <lastmod>2025-11-08T03:21:03+00:00</lastmod>
+  <priority>0.51</priority>
+</url>
+<url>
+  <loc>https://learn.microsoft.com/zh-cn/sql/mdx/except-mdx-function?view=sql-server-ver17</loc>
+  <lastmod>2025-11-08T03:21:07+00:00</lastmod>
+  <priority>0.51</priority>
+</url>
+<url>
+  <loc>https://learn.microsoft.com/zh-cn/sql/mdx/exists-mdx?view=sql-server-ver17</loc>
+  <lastmod>2025-11-08T03:21:12+00:00</lastmod>
+  <priority>0.51</priority>
+</url>
+<url>
+  <loc>https://learn.microsoft.com/zh-cn/sql/mdx/extract-mdx?view=sql-server-ver17</loc>
+  <lastmod>2025-11-08T03:21:14+00:00</lastmod>
+  <priority>0.51</priority>
+</url>
+<url>
+  <loc>https://learn.microsoft.com/zh-cn/sql/mdx/filter-mdx?view=sql-server-ver17</loc>
+  <lastmod>2025-11-08T03:21:16+00:00</lastmod>
+  <priority>0.51</priority>
+</url>
+<url>
+  <loc>https://learn.microsoft.com/zh-cn/sql/mdx/generate-mdx?view=sql-server-ver17</loc>
+  <lastmod>2025-11-08T03:21:24+00:00</lastmod>
+  <priority>0.51</priority>
+</url>
+<url>
+  <loc>https://learn.microsoft.com/zh-cn/sql/mdx/head-mdx?view=sql-server-ver17</loc>
+  <lastmod>2025-11-08T03:21:27+00:00</lastmod>
+  <priority>0.51</priority>
+</url>
+<url>
+  <loc>https://learn.microsoft.com/zh-cn/sql/mdx/hierarchize-mdx?view=sql-server-ver17</loc>
+  <lastmod>2025-11-08T03:21:30+00:00</lastmod>
+  <priority>0.51</priority>
+</url>
+<url>
+  <loc>https://learn.microsoft.com/zh-cn/sql/mdx/intersect-mdx?view=sql-server-ver17</loc>
+  <lastmod>2025-11-08T03:21:39+00:00</lastmod>
+  <priority>0.51</priority>
+</url>
+<url>
+  <loc>https://learn.microsoft.com/zh-cn/sql/mdx/lastperiods-mdx?view=sql-server-ver17</loc>
+  <lastmod>2025-11-08T03:22:07+00:00</lastmod>
+  <priority>0.51</priority>
+</url>
+<url>
+  <loc>https://learn.microsoft.com/zh-cn/sql/mdx/mtd-mdx?view=sql-server-ver17</loc>
+  <lastmod>2025-11-08T03:23:57+00:00</lastmod>
+  <priority>0.51</priority>
+</url>
+<url>
+  <loc>https://learn.microsoft.com/zh-cn/sql/mdx/nametoset-mdx?view=sql-server-ver17</loc>
+  <lastmod>2025-11-08T03:24:01+00:00</lastmod>
+  <priority>0.51</priority>
+</url>
+<url>
+  <loc>https://learn.microsoft.com/zh-cn/sql/mdx/nonemptycrossjoin-mdx?view=sql-server-ver17</loc>
+  <lastmod>2025-11-08T03:24:10+00:00</lastmod>
+  <priority>0.51</priority>
+</url>
+<url>
+  <loc>https://learn.microsoft.com/zh-cn/sql/mdx/order-mdx?view=sql-server-ver17</loc>
+  <lastmod>2025-11-08T03:24:18+00:00</lastmod>
+  <priority>0.51</priority>
+</url>
+<url>
+  <loc>https://learn.microsoft.com/zh-cn/sql/mdx/periodstodate-mdx?view=sql-server-ver17</loc>
+  <lastmod>2025-11-08T03:24:24+00:00</lastmod>
+  <priority>0.51</priority>
+</url>
+<url>
+  <loc>https://learn.microsoft.com/zh-cn/sql/mdx/qtd-mdx?view=sql-server-ver17</loc>
+  <lastmod>2025-11-08T03:24:34+00:00</lastmod>
+  <priority>0.51</priority>
+</url>
+<url>
+  <loc>https://learn.microsoft.com/zh-cn/sql/mdx/siblings-mdx?view=sql-server-ver17</loc>
+  <lastmod>2025-11-08T03:24:48+00:00</lastmod>
+  <priority>0.51</priority>
+</url>
+<url>
+  <loc>https://learn.microsoft.com/zh-cn/sql/mdx/stripcalculatedmembers-mdx?view=sql-server-ver17</loc>
+  <lastmod>2025-11-08T03:25:00+00:00</lastmod>
+  <priority>0.51</priority>
+</url>
+<url>
+  <loc>https://learn.microsoft.com/zh-cn/sql/mdx/strtoset-mdx?view=sql-server-ver17</loc>
+  <lastmod>2025-11-08T03:25:03+00:00</lastmod>
+  <priority>0.51</priority>
+</url>
+<url>
+  <loc>https://learn.microsoft.com/zh-cn/sql/mdx/subset-mdx?view=sql-server-ver17</loc>
+  <lastmod>2025-11-08T03:25:10+00:00</lastmod>
+  <priority>0.51</priority>
+</url>
+<url>
+  <loc>https://learn.microsoft.com/zh-cn/sql/mdx/tail-mdx?view=sql-server-ver17</loc>
+  <lastmod>2025-11-08T03:25:13+00:00</lastmod>
+  <priority>0.51</priority>
+</url>
+<url>
+  <loc>https://learn.microsoft.com/zh-cn/sql/mdx/toggledrillstate-mdx?view=sql-server-ver17</loc>
+  <lastmod>2025-11-08T03:25:15+00:00</lastmod>
+  <priority>0.51</priority>
+</url>
+<url>
+  <loc>https://learn.microsoft.com/zh-cn/sql/mdx/topcount-mdx?view=sql-server-ver17</loc>
+  <lastmod>2025-11-08T03:25:19+00:00</lastmod>
+  <priority>0.51</priority>
+</url>
+<url>
+  <loc>https://learn.microsoft.com/zh-cn/sql/mdx/toppercent-mdx?view=sql-server-ver17</loc>
+  <lastmod>2025-11-08T03:25:19+00:00</lastmod>
+  <priority>0.51</priority>
+</url>
+<url>
+  <loc>https://learn.microsoft.com/zh-cn/sql/mdx/topsum-mdx?view=sql-server-ver17</loc>
+  <lastmod>2025-11-08T03:25:20+00:00</lastmod>
+  <priority>0.51</priority>
+</url>
+<url>
+  <loc>https://learn.microsoft.com/zh-cn/sql/mdx/union-mdx?view=sql-server-ver17</loc>
+  <lastmod>2025-11-08T03:25:27+00:00</lastmod>
+  <priority>0.51</priority>
+</url>
+<url>
+  <loc>https://learn.microsoft.com/zh-cn/sql/mdx/unorder-mdx?view=sql-server-ver17</loc>
+  <lastmod>2025-11-08T03:25:32+00:00</lastmod>
+  <priority>0.51</priority>
+</url>
+<url>
+  <loc>https://learn.microsoft.com/zh-cn/sql/mdx/visualtotals-mdx?view=sql-server-ver17</loc>
+  <lastmod>2025-11-08T03:26:12+00:00</lastmod>
+  <priority>0.51</priority>
+</url>
+<url>
+  <loc>https://learn.microsoft.com/zh-cn/sql/mdx/wtd-mdx?view=sql-server-ver17</loc>
+  <lastmod>2025-11-08T03:26:14+00:00</lastmod>
+  <priority>0.51</priority>
+</url>
+<url>
+  <loc>https://learn.microsoft.com/zh-cn/sql/mdx/ytd-mdx?view=sql-server-ver17</loc>
+  <lastmod>2025-11-08T03:26:18+00:00</lastmod>
+  <priority>0.51</priority>
+</url>
+<url>
+  <loc>https://learn.microsoft.com/zh-cn/sql/mdx/membertostr-mdx?view=sql-server-ver17</loc>
+  <lastmod>2025-11-08T03:23:51+00:00</lastmod>
+  <priority>0.51</priority>
+</url>
+<url>
+  <loc>https://learn.microsoft.com/zh-cn/sql/mdx/name-mdx?view=sql-server-ver17</loc>
+  <lastmod>2025-11-08T03:23:58+00:00</lastmod>
+  <priority>0.51</priority>
+</url>
+<url>
+  <loc>https://learn.microsoft.com/zh-cn/sql/mdx/properties-mdx?view=sql-server-ver17</loc>
+  <lastmod>2025-11-08T03:24:31+00:00</lastmod>
+  <priority>0.51</priority>
+</url>
+<url>
+  <loc>https://learn.microsoft.com/zh-cn/sql/mdx/settostr-mdx?view=sql-server-ver17</loc>
+  <lastmod>2025-11-08T03:24:46+00:00</lastmod>
+  <priority>0.51</priority>
+</url>
+<url>
+  <loc>https://learn.microsoft.com/zh-cn/sql/mdx/tupletostr-mdx?view=sql-server-ver17</loc>
+  <lastmod>2025-11-08T03:25:23+00:00</lastmod>
+  <priority>0.51</priority>
+</url>
+<url>
+  <loc>https://learn.microsoft.com/zh-cn/sql/mdx/uniquename-mdx?view=sql-server-ver17</loc>
+  <lastmod>2025-11-08T03:25:30+00:00</lastmod>
+  <priority>0.51</priority>
+</url>
+<url>
+  <loc>https://learn.microsoft.com/zh-cn/sql/mdx/username-mdx?view=sql-server-ver17</loc>
+  <lastmod>2025-11-08T03:25:34+00:00</lastmod>
+  <priority>0.51</priority>
+</url>
+<url>
+  <loc>https://learn.microsoft.com/zh-cn/sql/mdx/this-mdx?view=sql-server-ver17</loc>
+  <lastmod>2025-11-08T03:25:13+00:00</lastmod>
+  <priority>0.51</priority>
+</url>
+<url>
+  <loc>https://learn.microsoft.com/zh-cn/sql/mdx/leaves-mdx?view=sql-server-ver17</loc>
+  <lastmod>2025-11-08T03:22:13+00:00</lastmod>
+  <priority>0.51</priority>
+</url>
+<url>
+  <loc>https://learn.microsoft.com/zh-cn/sql/mdx/current-mdx?view=sql-server-ver17</loc>
+  <lastmod>2025-11-08T03:20:31+00:00</lastmod>
+  <priority>0.51</priority>
+</url>
+<url>
+  <loc>https://learn.microsoft.com/zh-cn/sql/mdx/item-tuple-mdx?view=sql-server-ver17</loc>
+  <lastmod>2025-11-08T03:21:50+00:00</lastmod>
+  <priority>0.51</priority>
+</url>
+<url>
+  <loc>https://learn.microsoft.com/zh-cn/sql/mdx/root-mdx?view=sql-server-ver17</loc>
+  <lastmod>2025-11-08T03:24:42+00:00</lastmod>
+  <priority>0.51</priority>
+</url>
+<url>
+  <loc>https://learn.microsoft.com/zh-cn/sql/mdx/strtotuple-mdx?view=sql-server-ver17</loc>
+  <lastmod>2025-11-08T03:25:03+00:00</lastmod>
+  <priority>0.51</priority>
+</url>
+<url>
+  <loc>https://learn.microsoft.com/zh-cn/sql/mdx/error-mdx?view=sql-server-ver17</loc>
+  <lastmod>2025-11-08T03:21:05+00:00</lastmod>
+  <priority>0.51</priority>
+</url>
+<url>
+  <loc>https://learn.microsoft.com/zh-cn/sql/mdx/mdx-data-definition-create-subcube?view=sql-server-ver17</loc>
+  <lastmod>2025-11-08T03:22:53+00:00</lastmod>
+  <priority>0.41</priority>
+</url>
+<url>
+  <loc>https://learn.microsoft.com/zh-cn/sql/mdx/mdx-scripting-scope?view=sql-server-ver17</loc>
+  <lastmod>2025-11-08T03:24:00+00:00</lastmod>
+  <priority>0.41</priority>
+</url>
+<url>
+  <loc>https://learn.microsoft.com/zh-cn/sql/mdx/nonempty-mdx?view=sql-server-ver17</loc>
+  <lastmod>2025-11-08T03:24:04+00:00</lastmod>
+  <priority>0.41</priority>
+</url>
+<url>
+  <loc>https://learn.microsoft.com/zh-cn/sql/mdx/using-tuple-functions?view=sql-server-ver17</loc>
+  <lastmod>2025-11-08T03:25:57+00:00</lastmod>
+  <priority>0.41</priority>
+</url>
+<url>
+  <loc>https://learn.microsoft.com/zh-cn/sql/mdx/mdx-scripting-calculate?view=sql-server-ver17</loc>
+  <lastmod>2025-11-08T03:23:28+00:00</lastmod>
+  <priority>0.41</priority>
+</url>
+<url>
+  <loc>https://learn.microsoft.com/zh-cn/sql/mdx/case-statement-mdx?view=sql-server-ver17</loc>
+  <lastmod>2025-11-08T03:19:58+00:00</lastmod>
+  <priority>0.41</priority>
+</url>
+<url>
+  <loc>https://learn.microsoft.com/zh-cn/sql/mdx/mdx-scripting-freeze?view=sql-server-ver17</loc>
+  <lastmod>2025-11-08T03:23:28+00:00</lastmod>
+  <priority>0.41</priority>
+</url>
+<url>
+  <loc>https://learn.microsoft.com/zh-cn/sql/mdx/mdx-scripting-if?view=sql-server-ver17</loc>
+  <lastmod>2025-11-08T03:23:32+00:00</lastmod>
+  <priority>0.41</priority>
+</url>
+<url>
+  <loc>https://learn.microsoft.com/zh-cn/sql/mdx/mdx-data-definition-alter-cube?view=sql-server-ver17</loc>
+  <lastmod>2025-11-08T03:22:36+00:00</lastmod>
+  <priority>0.41</priority>
+</url>
+<url>
+  <loc>https://learn.microsoft.com/zh-cn/sql/mdx/mdx-data-definition-create-action?view=sql-server-ver17</loc>
+  <lastmod>2025-11-08T03:22:38+00:00</lastmod>
+  <priority>0.41</priority>
+</url>
+<url>
+  <loc>https://learn.microsoft.com/zh-cn/sql/mdx/mdx-data-definition-create-cell-calculation?view=sql-server-ver17</loc>
+  <lastmod>2025-11-08T03:22:42+00:00</lastmod>
+  <priority>0.41</priority>
+</url>
+<url>
+  <loc>https://learn.microsoft.com/zh-cn/sql/mdx/mdx-data-definition-create-global-cube?view=sql-server-ver17</loc>
+  <lastmod>2025-11-08T03:22:41+00:00</lastmod>
+  <priority>0.41</priority>
+</url>
+<url>
+  <loc>https://learn.microsoft.com/zh-cn/sql/mdx/mdx-data-definition-create-member?view=sql-server-ver17</loc>
+  <lastmod>2025-11-08T03:22:52+00:00</lastmod>
+  <priority>0.41</priority>
+</url>
+<url>
+  <loc>https://learn.microsoft.com/zh-cn/sql/mdx/mdx-data-definition-create-session-cube?view=sql-server-ver17</loc>
+  <lastmod>2025-11-08T03:22:50+00:00</lastmod>
+  <priority>0.41</priority>
+</url>
+<url>
+  <loc>https://learn.microsoft.com/zh-cn/sql/mdx/mdx-data-definition-create-set?view=sql-server-ver17</loc>
+  <lastmod>2025-11-08T03:22:54+00:00</lastmod>
+  <priority>0.41</priority>
+</url>
+<url>
+  <loc>https://learn.microsoft.com/zh-cn/sql/mdx/mdx-data-definition-drop-action?view=sql-server-ver17</loc>
+  <lastmod>2025-11-08T03:22:55+00:00</lastmod>
+  <priority>0.41</priority>
+</url>
+<url>
+  <loc>https://learn.microsoft.com/zh-cn/sql/mdx/mdx-data-definition-drop-cell-calculation?view=sql-server-ver17</loc>
+  <lastmod>2025-11-08T03:23:00+00:00</lastmod>
+  <priority>0.41</priority>
+</url>
+<url>
+  <loc>https://learn.microsoft.com/zh-cn/sql/mdx/mdx-data-definition-drop-member?view=sql-server-ver17</loc>
+  <lastmod>2025-11-08T03:23:00+00:00</lastmod>
+  <priority>0.41</priority>
+</url>
+<url>
+  <loc>https://learn.microsoft.com/zh-cn/sql/mdx/mdx-data-definition-drop-set?view=sql-server-ver17</loc>
+  <lastmod>2025-11-08T03:23:03+00:00</lastmod>
+  <priority>0.41</priority>
+</url>
+<url>
+  <loc>https://learn.microsoft.com/zh-cn/sql/mdx/mdx-data-definition-drop-subcube?view=sql-server-ver17</loc>
+  <lastmod>2025-11-08T03:23:03+00:00</lastmod>
+  <priority>0.41</priority>
+</url>
+<url>
+  <loc>https://learn.microsoft.com/zh-cn/sql/mdx/mdx-data-definition-refresh-cube?view=sql-server-ver17</loc>
+  <lastmod>2025-11-08T03:23:06+00:00</lastmod>
+  <priority>0.41</priority>
+</url>
+<url>
+  <loc>https://learn.microsoft.com/zh-cn/sql/mdx/mdx-data-manipulation-call?view=sql-server-ver17</loc>
+  <lastmod>2025-11-08T03:23:11+00:00</lastmod>
+  <priority>0.41</priority>
+</url>
+<url>
+  <loc>https://learn.microsoft.com/zh-cn/sql/mdx/mdx-data-manipulation-clear-calculations?view=sql-server-ver17</loc>
+  <lastmod>2025-11-08T03:23:14+00:00</lastmod>
+  <priority>0.41</priority>
+</url>
+<url>
+  <loc>https://learn.microsoft.com/zh-cn/sql/mdx/mdx-data-manipulation-drillthrough?view=sql-server-ver17</loc>
+  <lastmod>2025-11-08T03:23:14+00:00</lastmod>
+  <priority>0.41</priority>
+</url>
+<url>
+  <loc>https://learn.microsoft.com/zh-cn/sql/mdx/mdx-data-manipulation-select?view=sql-server-ver17</loc>
+  <lastmod>2025-11-08T03:23:17+00:00</lastmod>
+  <priority>0.41</priority>
+</url>
+<url>
+  <loc>https://learn.microsoft.com/zh-cn/sql/mdx/mdx-data-manipulation-update-cube?view=sql-server-ver17</loc>
+  <lastmod>2025-11-08T03:23:18+00:00</lastmod>
+  <priority>0.41</priority>
+</url>
+<url>
+  <loc>https://learn.microsoft.com/zh-cn/sql/mdx/membervalue-mdx?view=sql-server-ver17</loc>
+  <lastmod>2025-11-08T03:23:50+00:00</lastmod>
+  <priority>0.41</priority>
+</url>
+<url>
+  <loc>https://learn.microsoft.com/zh-cn/sql/mdx/mdx-data-definition-update-member?view=sql-server-ver17</loc>
+  <lastmod>2025-11-08T03:23:10+00:00</lastmod>
+  <priority>0.33</priority>
+</url>
+
+
+</urlset>
