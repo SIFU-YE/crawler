@@ -24,7 +24,7 @@ async def test_llm_filter():
 
         # 使用针对性指令初始化LLM过滤器
         filter = LLMContentFilter(
-            llm_config=LLMConfig(provider="gpt-4",base_url="https://api.gpt-api.cc/v1", api_token="sk-L1us8ftjbkRn3gAU6G8iX8ndZ15kzOLqTv4dBdPFlWCap0aT"),
+            llm_config=LLMConfig(provider="gpt-4",base_url="https://api.gpt-api.cc/v1/chat/completions", api_token="sk-L1us8ftjbkRn3gAU6G8iX8ndZ15kzOLqTv4dBdPFlWCap0aT"),
             instruction="""
 请你作为专业网页内容清洗师，处理爬取的原始内容，严格遵守：
 1. 彻底删除广告、导航、侧边栏、评论区、相关推荐等所有冗余信息；
