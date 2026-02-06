@@ -25,27 +25,27 @@ def sanitize_url_filename(url):
 
 # 过滤无关内容的函数
 def filter_unwanted_content(content):
-    # """
-    # 过滤掉不需要的内容，保留链接名称等有效文本
-    # """
-    # if not content:
-    #     return ""
-    #
-    # # 1. 移除指定的目标文本：利用大语言模型进行问题搜索
-    # target_text = "利用大语言模型进行问题搜索"
-    # content = content.replace(target_text, "")
-    #
-    # # 2. 移除JSON格式的无关数据（匹配 {"key": value, ...} 格式）
-    # json_pattern = r'\{[^}]*"serverDuration"[^}]*\}'
-    # content = re.sub(json_pattern, "", content, flags=re.DOTALL)
-    #
-    # # 3. 移除其他可能的JSON格式元数据
-    # meta_json_pattern = r'\{[^{}]*"requestCorrelationId"[^{}]*\}'
-    # content = re.sub(meta_json_pattern, "", content, flags=re.DOTALL)
-    #
-    # # 4. 移除多余的空白行和空格
-    # content = re.sub(r'\n\s*\n', '\n', content)  # 移除空行
-    # content = content.strip()
+    """
+    过滤掉不需要的内容，保留链接名称等有效文本
+    """
+    if not content:
+        return ""
+
+    # 1. 移除指定的目标文本：利用大语言模型进行问题搜索
+    target_text = "利用大语言模型进行问题搜索"
+    content = content.replace(target_text, "")
+
+    # 2. 移除JSON格式的无关数据（匹配 {"key": value, ...} 格式）
+    json_pattern = r'\{[^}]*"serverDuration"[^}]*\}'
+    content = re.sub(json_pattern, "", content, flags=re.DOTALL)
+
+    # 3. 移除其他可能的JSON格式元数据
+    meta_json_pattern = r'\{[^{}]*"requestCorrelationId"[^{}]*\}'
+    content = re.sub(meta_json_pattern, "", content, flags=re.DOTALL)
+
+    # 4. 移除多余的空白行和空格
+    content = re.sub(r'\n\s*\n', '\n', content)  # 移除空行
+    content = content.strip()
 
     return content
 
@@ -57,12 +57,12 @@ async def crawl_and_save_single_url(crawler, url):
             cache_mode=CacheMode.DISABLED,
             markdown_generator=DefaultMarkdownGenerator(
                 content_filter=PruningContentFilter(
-                    threshold=0.6,
+                    threshold=0.5,
                     threshold_type="fixed"
                 ),
                 options={
                     "ignore_links": True,  # 改为False以保留链接文本
-                    "ignore_images": True,  # 忽略图片减少干扰
+                    "ignore_images": False,  # 忽略图片减少干扰
                 }
             )
         )
