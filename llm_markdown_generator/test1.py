@@ -24,21 +24,13 @@ async def test_llm_filter():
 
         # 使用针对性指令初始化LLM过滤器
         filter = LLMContentFilter(
-            llm_config=LLMConfig(provider="glm-4.7",base_url="https://open.bigmodel.cn/api/paas/v4/chat/completions", api_token="cd72ca69e2b944cebf6523b0750f0c36.0EA6Wo4y6agqsSj7"),
+            llm_config=LLMConfig(provider="gpt-4",base_url="https://api.gpt-api.cc/v1", api_token="sk-L1us8ftjbkRn3gAU6G8iX8ndZ15kzOLqTv4dBdPFlWCap0aT"),
             instruction="""
-            Focus on extracting the core educational content about Python classes.
-            Include:
-            - Key concepts and their explanations
-            - Important code examples
-            - Essential technical details
-            Exclude:
-            - Navigation elements
-            - Sidebars
-            - Footer content
-            - Version information
-            - Any non-essential UI elements
-
-            Format the output as clean markdown with proper code blocks and headers.
+请你作为专业网页内容清洗师，处理爬取的原始内容，严格遵守：
+1. 彻底删除广告、导航、侧边栏、评论区、相关推荐等所有冗余信息；
+2. 仅保留核心有效内容，保留标题、段落、列表的原始逻辑结构；
+3. 用Markdown格式化清洗后的内容，标题分级、段落分行，删除无效空行；
+4. 只输出清洗后的纯净内容，不添加任何额外解释、备注。
             """,
             verbose=True
         )
